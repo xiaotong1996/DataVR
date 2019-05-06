@@ -1,4 +1,31 @@
-// webvr scene
+// gui
+var settings = {};
+settings.birdseye = true;
+var gui = new dat.GUI();
+var birdseyeController = gui.add(settings, 'birdseye');
+
+// bouge la caméra de vue de dessus à vue à échelle.
+birdseyeController.onFinishChange(function(value) {
+    var rig = document.querySelector('#rig');
+    var boxes = document.querySelectorAll('a-box')
+    if (value) {
+        rig.object3D.position.y = 15;
+        rig.setAttribute('rotation', "-90 -192 0");
+        boxes.forEach(function(i) {
+            i.object3D.scale.x = 0.3;
+            i.object3D.scale.z = 0.3;
+        });
+    } else {
+        rig.object3D.position.y = 0;
+        rig.setAttribute('rotation', "0 0 0");
+        boxes.forEach(function(i) {
+            i.object3D.scale.x = 0.03;
+            i.object3D.scale.z = 0.03;
+        });
+    }
+  });
+
+// d3
 console.log("loading data...");
 d3.json('data/EN.json').then(function (data) {
     // calcul des min/max des données pour faire des échelles
@@ -58,7 +85,9 @@ d3.json('data/EN.json').then(function (data) {
             // mais vu qu'on est sur une petite échelle, la déformation devrait être négligeable
             return x + " " + y + " " + z;
         })
-        .attr("color", "#CFD433")
+        .attr("color", function() {
+            return "#CFD" + (Math.floor(Math.random()*500)+200)
+        })
         .attr("scale", "0.3 1 0.3")
     
     // suppression des objets en trop

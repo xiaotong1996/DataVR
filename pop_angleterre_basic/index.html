@@ -5,14 +5,21 @@
     <meta charset="utf-8">
     <script src="https://d3js.org/d3.v5.js"></script>
     <script src="https://aframe.io/releases/0.9.1/aframe.min.js"></script>
-    <link rel="stylesheet" href="index.css">
+    <script src="https://unpkg.com/dat.gui@0.7.6/build/dat.gui.js"></script>
+    <script src="https://unpkg.com/aframe-teleport-controls@0.3.1/dist/aframe-teleport-controls.min.js"></script>
 </head>
 
 <body>
-    <a-scene background="color: white">
+    <a-scene background="color: white" fog="type: linear; color: #AAA">
         <a-box class="bar"></a-box>
-        <a-camera position="14 1 -1" rotation="-7 -190 0"></a-camera>
-        <a-sky color="#AAA"></a-sky>
+        <a-entity id="rig" position="11.3 15 9.5" rotation="-90 0 0">
+            <a-entity id="camera" camera look-controls></a-entity>
+            <a-entity id="teleHand" hand-controls="right" teleport-controls="cameraRig: #rig; teleportOrigin: #camera">
+            </a-entity>
+        </a-entity>
+        <a-sky color="#6EBAA7"></a-sky>
+        <a-plane height="30" width="30" rotation="-90 0 0"></a-plane>
+
     </a-scene>
     <script src="index.js"></script>
 </body>
