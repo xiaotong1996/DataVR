@@ -1,0 +1,28 @@
+{
+  "name": "pop_angleterre_basic2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack",
+    "start": "webpack-dev-server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "clean-webpack-plugin": "^2.0.2",
+    "html-webpack-plugin": "^3.2.0",
+    "webpack": "^4.30.0",
+    "webpack-cli": "^3.3.2",
+    "webpack-dev-server": "^3.3.1"
+  },
+  "dependencies": {
+    "aframe": "^0.9.2",
+    "aframe-teleport-controls": "^0.3.1",
+    "d3": "^5.9.2",
+    "dat.gui": "^0.7.6",
+    "super-hands": "^3.0.0"
+  }
+}
