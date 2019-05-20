@@ -49,7 +49,7 @@ document.addEventListener("DOMContentLoaded", function () {
     // d3
     console.log("loading data...");
     d3.json('data/EN.json').then(function (data) {
-        d3.json('data/test.json').then(function (data2) {
+        d3.csv('data/EN_wealth.csv').then(function (data2) {
             // calcul des min/max des données pour faire des échelles
             // *_extent[0] = minimum, *_extent[1] = maximum
             console.log("loaded");
@@ -70,18 +70,18 @@ document.addEventListener("DOMContentLoaded", function () {
             });
 
             var population_extent_bis = d3.extent(data2, function (d) {
-                return d.population;
+                return d.GCP_MER05;
             });
 
             var longitude_extent_bis = d3.extent(data2, function (d) {
                 if (d !== undefined) { // au cas où on tombe sur une ligne malformée (?)
-                    return d.longitude;
+                    return d.X;
                 }
             });
 
             var latitude_extent_bis = d3.extent(data2, function (d) {
                 if (d !== undefined) {
-                    return d.latitude;
+                    return d.Y;
                 }
             });
 
@@ -111,7 +111,7 @@ document.addEventListener("DOMContentLoaded", function () {
             console.log("fini calculs");
             // Lier les objets a-frame et les données :
             var u = d3.select('a-scene') // sélection de la scène a-frame
-                .selectAll('a-box.bar1') // sélection des cubes
+                .selectAll('a-box.bar') // sélection des cubes
                 .data(data) // qu'on lie aux données
 
             var v = d3.select('a-scene') // sélection de la scène a-frame
