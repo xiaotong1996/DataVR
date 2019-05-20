@@ -7,16 +7,18 @@
 </head>
 
 <body>
-    <a-scene stretchable background="color: white" fog="type: linear; color: #AAA">
-        <a-box class="bar"></a-box>
+    <a-scene pop-angleterre stats debug-gui background="color: white" fog="type: linear; color: #AAA">
+        <a-box></a-box>
         <a-entity id="rig" wasd-controls position="11.3 15 9.5" rotation="-90 0 0">
-            <a-entity id="camera" camera look-controls position="0 0.18 0"></a-entity>
-            <a-entity id="rightHand" sphere-collider="objects: a-box" hand-controls="right" super-hands
+            <a-entity id="camera" camera look-controls  world-scale="rightHand: #rightHand; leftHand: #leftHand; world: #world" position="0 0.18 0"></a-entity>
+            <a-entity id="rightHand" hand-controls="right"
                 teleport-controls="cameraRig: #rig; teleportOrigin: #camera"></a-entity>
-            <a-entity id="leftHand" sphere-collider="objects: a-box" hand-controls="left" super-hands></a-entity>
+            <a-entity id="leftHand" hand-controls="left"></a-entity>
         </a-entity>
-        <a-sky color="#6EBAA7"></a-sky>
         <a-plane color="#000000" position="10 0 15" height="30" width="20" rotation="-90 0 0"></a-plane>
+        <a-entity id="world">
+            <a-sphere color="red"></a-sphere>
+        </a-entity>
     </a-scene>
 </body>
 
