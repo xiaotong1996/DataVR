@@ -1,6 +1,7 @@
 require('aframe');
 require('aframe-teleport-controls');
 require('./world-scale')
+require('aframe-geojson-component')
 const d3 = require('d3');
 
 AFRAME.registerComponent('pop-angleterre', {
@@ -75,3 +76,44 @@ AFRAME.registerComponent('pop-angleterre', {
         });
     }
 });
+
+AFRAME.registerComponent('ukmap', {
+    schema: { canvas: { type: 'selector' } },
+    init: function () {
+        
+        var canvas = this.canvas = this.data.canvas;
+        var ctx = this.ctx = canvas.getContext('2d');
+        // fill red for debug
+        ctx.fillStyle = 'rgb(255, 0, 0)';
+        ctx.fillRect(0, 0, canvas.width, canvas.height);
+
+        var projection = d3.geoAlbers()
+            .center([0, 55.4])
+            .rotate([4.4, 0])
+            .parallels([50, 60])
+            .scale(6000)
+            .translate([canvas.width / 2, canvas.height / 2]);
+
+        var geoGenerator = d3.geoPath()
+            .projection(projection)
+            .context(this.ctx)
+
+        d3.json("data/terrain.json").then(function (data) {
+            console.log("coucou")
+
+            ctx.lineWidth = 0.5;
+            ctx.strokeStyle = '#aaa';
+            
+            // fix me !!!
+            ctx.beginPath();
+            geoGenerator({type: 'FeatureCollection', features: data.features})
+            ctx.stroke();
+
+        });
+
+        // state that the material needs to be updated
+        material = this.el.getObject3D('mesh').material;
+        material.map.needsUpdate = true;
+    }
+}
+);
