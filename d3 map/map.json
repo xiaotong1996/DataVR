@@ -1,0 +1,8261 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.6,51.48333,0 ]
+    },
+    "properties": {
+    "key":"Windsor",
+    "population":28324,
+    "dislikes_normalized":389.1613404925
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.26196,52.39964,0 ]
+    },
+    "properties": {
+    "key":"Ely",
+    "population":14265,
+    "dislikes_normalized":262.75911751671
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.74261,51.33705,0 ]
+    },
+    "properties": {
+    "key":"Camberley",
+    "population":30155,
+    "dislikes_normalized":227.03351834455
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.11667,52.2,0 ]
+    },
+    "properties": {
+    "key":"Cambridge",
+    "population":128488,
+    "dislikes_normalized":199.31460390703
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.01667,52.5,0 ]
+    },
+    "properties": {
+    "key":"Oldbury",
+    "population":10830,
+    "dislikes_normalized":197.08123518037
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.18651,52.33049,0 ]
+    },
+    "properties": {
+    "key":"Huntingdon",
+    "population":21059,
+    "dislikes_normalized":187.34713012014
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.0088,50.87398,0 ]
+    },
+    "properties": {
+    "key":"Lewes",
+    "population":16479,
+    "dislikes_normalized":186.69936962974
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.1601,51.99244,0 ]
+    },
+    "properties": {
+    "key":"Tewkesbury",
+    "population":10200,
+    "dislikes_normalized":183.43365688496
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.2617,51.40065,0 ]
+    },
+    "properties": {
+    "key":"New Malden",
+    "population":23818,
+    "dislikes_normalized":182.25902701694
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.96597,50.8727,0 ]
+    },
+    "properties": {
+    "key":"Chard",
+    "population":12275,
+    "dislikes_normalized":181.96406843647
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.13947,50.82838,0 ]
+    },
+    "properties": {
+    "key":"Brighton",
+    "population":139001,
+    "dislikes_normalized":176.83480324391
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.05436,50.26526,0 ]
+    },
+    "properties": {
+    "key":"Truro",
+    "population":22044,
+    "dislikes_normalized":173.09290859108
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.25596,51.75222,0 ]
+    },
+    "properties": {
+    "key":"Oxford",
+    "population":154566,
+    "dislikes_normalized":171.03216933409
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.58333,52.28333,0 ]
+    },
+    "properties": {
+    "key":"Warwick",
+    "population":24040,
+    "dislikes_normalized":162.34999501569
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.08593,50.79205,0 ]
+    },
+    "properties": {
+    "key":"Southsea",
+    "population":18514,
+    "dislikes_normalized":161.15852318656
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.1036,51.42619,0 ]
+    },
+    "properties": {
+    "key":"Sidcup",
+    "population":10400,
+    "dislikes_normalized":160.88956780998
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.61489,51.1858,0 ]
+    },
+    "properties": {
+    "key":"Godalming",
+    "population":22199,
+    "dislikes_normalized":160.25451568906
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.98779,51.99968,0 ]
+    },
+    "properties": {
+    "key":"Buckingham",
+    "population":12791,
+    "dislikes_normalized":159.34654323139
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.15047,52.9536,0 ]
+    },
+    "properties": {
+    "key":"Nottingham",
+    "population":246654,
+    "dislikes_normalized":157.1190325936
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.23743,53.48095,0 ]
+    },
+    "properties": {
+    "key":"Manchester",
+    "population":395515,
+    "dislikes_normalized":151.09216943016
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.07992,51.27904,0 ]
+    },
+    "properties": {
+    "key":"Canterbury",
+    "population":46978,
+    "dislikes_normalized":150.36395794273
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.15938,52.66622,0 ]
+    },
+    "properties": {
+    "key":"Wisbech",
+    "population":20200,
+    "dislikes_normalized":144.67257196524
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.08828,52.55131,0 ]
+    },
+    "properties": {
+    "key":"March",
+    "population":18442,
+    "dislikes_normalized":141.18055278711
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.08292,52.41548,0 ]
+    },
+    "properties": {
+    "key":"Aberystwyth",
+    "population":18392,
+    "dislikes_normalized":140.17336859303
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.00356,51.12837,0 ]
+    },
+    "properties": {
+    "key":"Bridgwater",
+    "population":38020,
+    "dislikes_normalized":138.10478907977
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.50546,51.38764,0 ]
+    },
+    "properties": {
+    "key":"Rochester",
+    "population":28671,
+    "dislikes_normalized":137.99772573494
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.4234,51.51579,0 ]
+    },
+    "properties": {
+    "key":"Hayes",
+    "population":50000,
+    "dislikes_normalized":134.35048326986
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.15141,52.78709,0 ]
+    },
+    "properties": {
+    "key":"Spalding",
+    "population":22357,
+    "dislikes_normalized":134.2930960973
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.79569,51.06931,0 ]
+    },
+    "properties": {
+    "key":"Salisbury",
+    "population":45600,
+    "dislikes_normalized":132.60260330037
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.20832,51.01678,0 ]
+    },
+    "properties": {
+    "key":"Bideford",
+    "population":16624,
+    "dislikes_normalized":132.16388375062
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.78535,56.0021,0 ]
+    },
+    "properties": {
+    "key":"Falkirk",
+    "population":32479,
+    "dislikes_normalized":127.27216892867
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.17873,51.20434,0 ]
+    },
+    "properties": {
+    "key":"Warminster",
+    "population":17875,
+    "dislikes_normalized":127.24938136073
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.2075,51.66778,0 ]
+    },
+    "properties": {
+    "key":"Blackwood",
+    "population":15476,
+    "dislikes_normalized":125.29597563928
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.49012,52.90538,0 ]
+    },
+    "properties": {
+    "key":"Market Drayton",
+    "population":10639,
+    "dislikes_normalized":124.77979684649
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.41388,51.4462,0 ]
+    },
+    "properties": {
+    "key":"Feltham",
+    "population":24325,
+    "dislikes_normalized":123.74132702954
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.42341,51.57344,0 ]
+    },
+    "properties": {
+    "key":"Ruislip",
+    "population":31000,
+    "dislikes_normalized":123.06348012719
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.27011,51.3305,0 ]
+    },
+    "properties": {
+    "key":"Epsom",
+    "population":27065,
+    "dislikes_normalized":122.9415593727
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.61186,50.52858,0 ]
+    },
+    "properties": {
+    "key":"Newton Abbot",
+    "population":25789,
+    "dislikes_normalized":122.26641304788
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.14418,50.54944,0 ]
+    },
+    "properties": {
+    "key":"Tavistock",
+    "population":11493,
+    "dislikes_normalized":122.00576136107
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.32471,51.40148,0 ]
+    },
+    "properties": {
+    "key":"Newbury",
+    "population":33065,
+    "dislikes_normalized":120.84946529303
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.45887,56.07156,0 ]
+    },
+    "properties": {
+    "key":"Dunfermline",
+    "population":38960,
+    "dislikes_normalized":119.30827271397
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.09589,50.96948,0 ]
+    },
+    "properties": {
+    "key":"Uckfield",
+    "population":15716,
+    "dislikes_normalized":116.21472388496
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.57566,54.77676,0 ]
+    },
+    "properties": {
+    "key":"Durham",
+    "population":45696,
+    "dislikes_normalized":115.79613028768
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.46667,51.5,0 ]
+    },
+    "properties": {
+    "key":"West Drayton",
+    "population":12156,
+    "dislikes_normalized":114.41387450117
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.36172,51.3751,0 ]
+    },
+    "properties": {
+    "key":"Bath",
+    "population":93238,
+    "dislikes_normalized":113.27168136432
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.99774,52.18893,0 ]
+    },
+    "properties": {
+    "key":"Stowmarket",
+    "population":15394,
+    "dislikes_normalized":113.19608613468
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.2,51.75,0 ]
+    },
+    "properties": {
+    "key":"Stroud",
+    "population":30600,
+    "dislikes_normalized":113.16732538803
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.26667,52.21667,0 ]
+    },
+    "properties": {
+    "key":"Saint Neots",
+    "population":15270,
+    "dislikes_normalized":113.02201453629
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.30535,51.85552,0 ]
+    },
+    "properties": {
+    "key":"Carmarthen",
+    "population":15244,
+    "dislikes_normalized":111.89516939342
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.40428,50.90395,0 ]
+    },
+    "properties": {
+    "key":"Southampton",
+    "population":246201,
+    "dislikes_normalized":111.87373582376
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.4659,53.38297,0 ]
+    },
+    "properties": {
+    "key":"Sheffield",
+    "population":447047,
+    "dislikes_normalized":111.02546699356
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.22419,51.76338,0 ]
+    },
+    "properties": {
+    "key":"Hatfield",
+    "population":27883,
+    "dislikes_normalized":110.70279893243
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.2284,51.97944,0 ]
+    },
+    "properties": {
+    "key":"Letchworth",
+    "population":33955,
+    "dislikes_normalized":110.50604559614
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.63211,50.94159,0 ]
+    },
+    "properties": {
+    "key":"Yeovil",
+    "population":43733,
+    "dislikes_normalized":109.87165050994
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.6748,51.41082,0 ]
+    },
+    "properties": {
+    "key":"Ascot",
+    "population":17899,
+    "dislikes_normalized":107.54962738846
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.10293,51.01494,0 ]
+    },
+    "properties": {
+    "key":"Taunton",
+    "population":60433,
+    "dislikes_normalized":106.94503670045
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.50782,51.38812,0 ]
+    },
+    "properties": {
+    "key":"Chertsey",
+    "population":10553,
+    "dislikes_normalized":106.8914495638
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.21664,51.55685,0 ]
+    },
+    "properties": {
+    "key":"Hornchurch",
+    "population":25470,
+    "dislikes_normalized":106.64736566308
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.34426,56.11194,0 ]
+    },
+    "properties": {
+    "key":"Cowdenbeath",
+    "population":11350,
+    "dislikes_normalized":106.64294912705
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1672,50.83088,0 ]
+    },
+    "properties": {
+    "key":"Hove",
+    "population":75174,
+    "dislikes_normalized":105.56612290005
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.09785,51.37457,0 ]
+    },
+    "properties": {
+    "key":"Orpington",
+    "population":15248,
+    "dislikes_normalized":105.32855650608
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.3338,51.23228,0 ]
+    },
+    "properties": {
+    "key":"Dorking",
+    "population":16429,
+    "dislikes_normalized":104.97414373195
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.54413,54.6425,0 ]
+    },
+    "properties": {
+    "key":"Workington",
+    "population":20618,
+    "dislikes_normalized":104.58007041156
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.57427,51.23536,45 ]
+    },
+    "properties": {
+    "key":"Guildford",
+    "population":71873,
+    "dislikes_normalized":104.5734436513
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.3083,51.48619,0 ]
+    },
+    "properties": {
+    "key":"Brentford",
+    "population":10750,
+    "dislikes_normalized":104.05444977649
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.2431,51.86568,0 ]
+    },
+    "properties": {
+    "key":"Gloucester",
+    "population":128721,
+    "dislikes_normalized":103.43986937474
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.96745,52.49268,0 ]
+    },
+    "properties": {
+    "key":"Smethwick",
+    "population":12842,
+    "dislikes_normalized":102.91006266473
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.4854,51.7836,0 ]
+    },
+    "properties": {
+    "key":"Witney",
+    "population":24103,
+    "dislikes_normalized":102.68026905667
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.104,54.96986,0 ]
+    },
+    "properties": {
+    "key":"Hexham",
+    "population":10920,
+    "dislikes_normalized":102.25269834312
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.94887,52.09237,0 ]
+    },
+    "properties": {
+    "key":"Evesham",
+    "population":22673,
+    "dislikes_normalized":102.14955848023
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.29825,51.39148,0 ]
+    },
+    "properties": {
+    "key":"Surbiton",
+    "population":38158,
+    "dislikes_normalized":102.14062044796
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.53792,53.22683,0 ]
+    },
+    "properties": {
+    "key":"Lincoln",
+    "population":89228,
+    "dislikes_normalized":101.64123436234
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.06667,53.78333,0 ]
+    },
+    "properties": {
+    "key":"Selby",
+    "population":16159,
+    "dislikes_normalized":101.513929957
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.2,52.76667,0 ]
+    },
+    "properties": {
+    "key":"Loughborough",
+    "population":59317,
+    "dislikes_normalized":101.11860106817
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.88333,52.25,0 ]
+    },
+    "properties": {
+    "key":"Northampton",
+    "population":197322,
+    "dislikes_normalized":100.32671659514
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.28278,51.67109,0 ]
+    },
+    "properties": {
+    "key":"Abingdon",
+    "population":37192,
+    "dislikes_normalized":99.850633224383
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.08271,53.95763,0 ]
+    },
+    "properties": {
+    "key":"York",
+    "population":144202,
+    "dislikes_normalized":99.572843778119
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.99132,53.04664,0 ]
+    },
+    "properties": {
+    "key":"Wrexham",
+    "population":43649,
+    "dislikes_normalized":98.558185552028
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.38216,51.59384,0 ]
+    },
+    "properties": {
+    "key":"Pinner",
+    "population":19158,
+    "dislikes_normalized":98.54415887177
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.75583,52.04172,0 ]
+    },
+    "properties": {
+    "key":"Milton Keynes",
+    "population":184506,
+    "dislikes_normalized":98.356325237869
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.05497,52.86195,0 ]
+    },
+    "properties": {
+    "key":"Oswestry",
+    "population":17031,
+    "dislikes_normalized":96.703988442209
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.19648,55.95206,0 ]
+    },
+    "properties": {
+    "key":"Edinburgh",
+    "population":435791,
+    "dislikes_normalized":96.628435728354
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.73117,52.0389,0 ]
+    },
+    "properties": {
+    "key":"Sudbury",
+    "population":12080,
+    "dislikes_normalized":96.618997219732
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.10313,50.99769,0 ]
+    },
+    "properties": {
+    "key":"Haywards Heath",
+    "population":29660,
+    "dislikes_normalized":96.604485705988
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.59665,51.45523,0 ]
+    },
+    "properties": {
+    "key":"Bristol",
+    "population":430713,
+    "dislikes_normalized":96.469194334711
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.99187,55.78924,0 ]
+    },
+    "properties": {
+    "key":"Motherwell",
+    "population":29908,
+    "dislikes_normalized":96.381333209139
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.90421,51.88921,0 ]
+    },
+    "properties": {
+    "key":"Colchester",
+    "population":109414,
+    "dislikes_normalized":96.150034112751
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.98833,51.79279,0 ]
+    },
+    "properties": {
+    "key":"Ammanford",
+    "population":12755,
+    "dislikes_normalized":96.110204286256
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.97145,51.71927,0 ]
+    },
+    "properties": {
+    "key":"Cirencester",
+    "population":16214,
+    "dislikes_normalized":95.944769213341
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.82326,53.92449,0 ]
+    },
+    "properties": {
+    "key":"Ilkley",
+    "population":13772,
+    "dislikes_normalized":95.901690467876
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.76252,51.44042,0 ]
+    },
+    "properties": {
+    "key":"Sheerness",
+    "population":11914,
+    "dislikes_normalized":95.882843801172
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.59541,51.50949,0 ]
+    },
+    "properties": {
+    "key":"Slough",
+    "population":134072,
+    "dislikes_normalized":95.424806448812
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.35508,51.52866,0 ]
+    },
+    "properties": {
+    "key":"Greenford",
+    "population":38000,
+    "dislikes_normalized":94.694382170618
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.61667,53.65,0 ]
+    },
+    "properties": {
+    "key":"Chorley",
+    "population":33888,
+    "dislikes_normalized":94.496992535595
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.87376,51.14648,0 ]
+    },
+    "properties": {
+    "key":"Ashford",
+    "population":62787,
+    "dislikes_normalized":94.49560358418
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.33739,54.17841,0 ]
+    },
+    "properties": {
+    "key":"Newry",
+    "population":27757,
+    "dislikes_normalized":94.494822205767
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.29731,50.21306,0 ]
+    },
+    "properties": {
+    "key":"Camborne",
+    "population":22500,
+    "dislikes_normalized":94.356964812935
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.54785,53.79648,0 ]
+    },
+    "properties": {
+    "key":"Leeds",
+    "population":455123,
+    "dislikes_normalized":94.141967086474
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.49393,51.21135,0 ]
+    },
+    "properties": {
+    "key":"Andover",
+    "population":39951,
+    "dislikes_normalized":93.913876844765
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.79902,56.33871,0 ]
+    },
+    "properties": {
+    "key":"Saint Andrews",
+    "population":15435,
+    "dislikes_normalized":93.580526376815
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.79988,54.04649,0 ]
+    },
+    "properties": {
+    "key":"Lancaster",
+    "population":47162,
+    "dislikes_normalized":93.577049671904
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.43333,50.71667,0 ]
+    },
+    "properties": {
+    "key":"Dorchester",
+    "population":16879,
+    "dislikes_normalized":93.556542520771
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.97113,51.45625,0 ]
+    },
+    "properties": {
+    "key":"Reading",
+    "population":244070,
+    "dislikes_normalized":93.504478225278
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.71986,51.52279,0 ]
+    },
+    "properties": {
+    "key":"Maidenhead",
+    "population":59463,
+    "dislikes_normalized":93.239213961751
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.57722,51.50583,0 ]
+    },
+    "properties": {
+    "key":"Bridgend",
+    "population":39429,
+    "dislikes_normalized":92.926124580039
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.29834,52.62783,0 ]
+    },
+    "properties": {
+    "key":"Norwich",
+    "population":177636,
+    "dislikes_normalized":92.457653906603
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.13169,52.6386,0 ]
+    },
+    "properties": {
+    "key":"Leicester",
+    "population":339239,
+    "dislikes_normalized":92.377617083009
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.70452,53.76282,0 ]
+    },
+    "properties": {
+    "key":"Preston",
+    "population":190687,
+    "dislikes_normalized":91.632108595351
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.88856,51.3148,0 ]
+    },
+    "properties": {
+    "key":"Faversham",
+    "population":18628,
+    "dislikes_normalized":91.452492640475
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.93682,56.11903,0 ]
+    },
+    "properties": {
+    "key":"Stirling",
+    "population":33012,
+    "dislikes_normalized":91.378906517986
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.17316,56.19514,0 ]
+    },
+    "properties": {
+    "key":"Glenrothes",
+    "population":38734,
+    "dislikes_normalized":91.186751010689
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.13116,53.52285,0 ]
+    },
+    "properties": {
+    "key":"Doncaster",
+    "population":67670,
+    "dislikes_normalized":90.994033140941
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.35678,53.43012,0 ]
+    },
+    "properties": {
+    "key":"Rotherham",
+    "population":117618,
+    "dislikes_normalized":90.891576875273
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1,51.38333,0 ]
+    },
+    "properties": {
+    "key":"Croydon",
+    "population":173314,
+    "dislikes_normalized":90.528978818536
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.96914,51.80169,0 ]
+    },
+    "properties": {
+    "key":"Haverfordwest",
+    "population":13469,
+    "dislikes_normalized":90.396458829788
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.34211,51.6021,0 ]
+    },
+    "properties": {
+    "key":"Pontypridd",
+    "population":30420,
+    "dislikes_normalized":90.162084202684
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.15545,52.05917,0 ]
+    },
+    "properties": {
+    "key":"Ipswich",
+    "population":143767,
+    "dislikes_normalized":89.83938433794
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.69327,53.70514,0 ]
+    },
+    "properties": {
+    "key":"Liversedge",
+    "population":11656,
+    "dislikes_normalized":89.526735847275
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.00571,51.43879,0 ]
+    },
+    "properties": {
+    "key":"Calne",
+    "population":14096,
+    "dislikes_normalized":88.701241346606
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.17929,50.85162,0 ]
+    },
+    "properties": {
+    "key":"Fareham",
+    "population":57390,
+    "dislikes_normalized":88.659995476304
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.74595,54.64305,0 ]
+    },
+    "properties": {
+    "key":"Cookstown",
+    "population":11081,
+    "dislikes_normalized":88.088898722175
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.49637,50.54768,0 ]
+    },
+    "properties": {
+    "key":"Teignmouth",
+    "population":15498,
+    "dislikes_normalized":87.411350090286
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.61667,53.53333,0 ]
+    },
+    "properties": {
+    "key":"Wigan",
+    "population":80788,
+    "dislikes_normalized":87.29182060693
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.32757,51.06314,0 ]
+    },
+    "properties": {
+    "key":"Horsham",
+    "population":50680,
+    "dislikes_normalized":87.245927547192
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.12472,51.46,0 ]
+    },
+    "properties": {
+    "key":"Chippenham",
+    "population":36890,
+    "dislikes_normalized":86.812686073601
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.03987,53.8775,0 ]
+    },
+    "properties": {
+    "key":"Cleveleys",
+    "population":15000,
+    "dislikes_normalized":86.521481358356
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.41748,51.87967,0 ]
+    },
+    "properties": {
+    "key":"Luton",
+    "population":193669,
+    "dislikes_normalized":85.64019022059
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.89189,53.1905,0 ]
+    },
+    "properties": {
+    "key":"Chester",
+    "population":77040,
+    "dislikes_normalized":85.458416872652
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.97794,53.41058,0 ]
+    },
+    "properties": {
+    "key":"Liverpool",
+    "population":468945,
+    "dislikes_normalized":85.346845065479
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.59435,51.75905,0 ]
+    },
+    "properties": {
+    "key":"Carterton",
+    "population":13247,
+    "dislikes_normalized":85.097699676747
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.3,52.51667,0 ]
+    },
+    "properties": {
+    "key":"Newtown",
+    "population":12783,
+    "dislikes_normalized":84.824537965157
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.22514,50.40959,0 ]
+    },
+    "properties": {
+    "key":"Saltash",
+    "population":14439,
+    "dislikes_normalized":84.600304687002
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.218,51.57452,0 ]
+    },
+    "properties": {
+    "key":"Caerphilly",
+    "population":31060,
+    "dislikes_normalized":84.44150704189
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.94323,51.62079,0 ]
+    },
+    "properties": {
+    "key":"Swansea",
+    "population":170883,
+    "dislikes_normalized":84.120143765873
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.0061,51.12382,0 ]
+    },
+    "properties": {
+    "key":"East Grinstead",
+    "population":26523,
+    "dislikes_normalized":83.875994544249
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.07972,51.90006,0 ]
+    },
+    "properties": {
+    "key":"Cheltenham",
+    "population":103249,
+    "dislikes_normalized":83.823516707601
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.45975,51.37178,0 ]
+    },
+    "properties": {
+    "key":"Weybridge",
+    "population":19463,
+    "dislikes_normalized":83.596429157032
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.25763,55.86515,0 ]
+    },
+    "properties": {
+    "key":"Glasgow",
+    "population":610268,
+    "dislikes_normalized":83.525401021729
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.56528,51.7604,0 ]
+    },
+    "properties": {
+    "key":"Berkhamsted",
+    "population":16243,
+    "dislikes_normalized":83.185374019441
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.97624,51.7484,0 ]
+    },
+    "properties": {
+    "key":"Thame",
+    "population":11128,
+    "dislikes_normalized":83.120618757174
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.46632,52.13459,0 ]
+    },
+    "properties": {
+    "key":"Bedford",
+    "population":86658,
+    "dislikes_normalized":82.811076755916
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.93375,51.00495,0 ]
+    },
+    "properties": {
+    "key":"Petersfield",
+    "population":13384,
+    "dislikes_normalized":82.448764224658
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.2,53.13333,0 ]
+    },
+    "properties": {
+    "key":"Mansfield",
+    "population":70447,
+    "dislikes_normalized":82.105788677615
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.58024,53.39254,0 ]
+    },
+    "properties": {
+    "key":"Warrington",
+    "population":81238,
+    "dislikes_normalized":81.750999569917
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.18,51.48,0 ]
+    },
+    "properties": {
+    "key":"Cardiff",
+    "population":302139,
+    "dislikes_normalized":81.310113773177
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.07113,50.15441,0 ]
+    },
+    "properties": {
+    "key":"Falmouth",
+    "population":22222,
+    "dislikes_normalized":81.079466942335
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.20056,51.41222,0 ]
+    },
+    "properties": {
+    "key":"Neston",
+    "population":15352,
+    "dislikes_normalized":80.990440877995
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.05983,52.33574,0 ]
+    },
+    "properties": {
+    "key":"Bromsgrove",
+    "population":29237,
+    "dislikes_normalized":80.734776828688
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.34222,52.0632,0 ]
+    },
+    "properties": {
+    "key":"Banbury",
+    "population":46075,
+    "dislikes_normalized":80.670303153937
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.2,53.83333,0 ]
+    },
+    "properties": {
+    "key":"Nelson",
+    "population":29317,
+    "dislikes_normalized":80.412735481527
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.64732,51.61219,0 ]
+    },
+    "properties": {
+    "key":"Beaconsfield",
+    "population":12566,
+    "dislikes_normalized":80.191022948515
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.39602,51.65531,0 ]
+    },
+    "properties": {
+    "key":"Watford",
+    "population":125707,
+    "dislikes_normalized":80.180385966038
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.75831,50.7338,0 ]
+    },
+    "properties": {
+    "key":"Bridport",
+    "population":13266,
+    "dislikes_normalized":80.162022715412
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.83565,51.4112,0 ]
+    },
+    "properties": {
+    "key":"Wokingham",
+    "population":41143,
+    "dislikes_normalized":79.941547600488
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.34848,53.38752,0 ]
+    },
+    "properties": {
+    "key":"Altrincham",
+    "population":41548,
+    "dislikes_normalized":79.550112832114
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.75565,51.29424,0 ]
+    },
+    "properties": {
+    "key":"Farnborough",
+    "population":59902,
+    "dislikes_normalized":79.323876526555
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.12574,51.50853,0 ]
+    },
+    "properties": {
+    "key":"London",
+    "population":7556900,
+    "dislikes_normalized":78.910303763471
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.09814,57.14369,0 ]
+    },
+    "properties": {
+    "key":"Aberdeen",
+    "population":183790,
+    "dislikes_normalized":78.789603572313
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.99421,51.35084,0 ]
+    },
+    "properties": {
+    "key":"Devizes",
+    "population":14699,
+    "dislikes_normalized":78.506673468762
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.2,51.65,0 ]
+    },
+    "properties": {
+    "key":"Barnet",
+    "population":30000,
+    "dislikes_normalized":78.505839701423
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.24777,52.57364,0 ]
+    },
+    "properties": {
+    "key":"Peterborough",
+    "population":140141,
+    "dislikes_normalized":78.35871350074
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.27363,51.19532,0 ]
+    },
+    "properties": {
+    "key":"Tonbridge",
+    "population":36894,
+    "dislikes_normalized":78.297763087221
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.18899,50.7996,0 ]
+    },
+    "properties": {
+    "key":"Honiton",
+    "population":11463,
+    "dislikes_normalized":78.109145595662
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.92541,54.59682,0 ]
+    },
+    "properties": {
+    "key":"Belfast",
+    "population":274770,
+    "dislikes_normalized":77.955931102024
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.2,54.7,0 ]
+    },
+    "properties": {
+    "key":"Antrim",
+    "population":19661,
+    "dislikes_normalized":77.831817558805
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.43139,56.39522,0 ]
+    },
+    "properties": {
+    "key":"Perth",
+    "population":43633,
+    "dislikes_normalized":77.585275712017
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.01676,53.96144,0 ]
+    },
+    "properties": {
+    "key":"Skipton",
+    "population":14632,
+    "dislikes_normalized":77.475116618766
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.89001,56.64382,0 ]
+    },
+    "properties": {
+    "key":"Forfar",
+    "population":13237,
+    "dislikes_normalized":77.008275107982
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.58736,56.56317,0 ]
+    },
+    "properties": {
+    "key":"Arbroath",
+    "population":22291,
+    "dislikes_normalized":76.310645856136
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.16174,50.86073,0 ]
+    },
+    "properties": {
+    "key":"Blandford Forum",
+    "population":10073,
+    "dislikes_normalized":76.056520277424
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.48333,53.55,0 ]
+    },
+    "properties": {
+    "key":"Barnsley",
+    "population":71447,
+    "dislikes_normalized":76.022042937427
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.92053,52.4776,0 ]
+    },
+    "properties": {
+    "key":"Market Harborough",
+    "population":20575,
+    "dislikes_normalized":76.00848881959
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.02438,52.04832,0 ]
+    },
+    "properties": {
+    "key":"Royston",
+    "population":14895,
+    "dislikes_normalized":75.8273105066
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.27762,51.65468,0 ]
+    },
+    "properties": {
+    "key":"Borehamwood",
+    "population":32176,
+    "dislikes_normalized":75.545168593635
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.36053,51.64316,0 ]
+    },
+    "properties": {
+    "key":"Bushey",
+    "population":17380,
+    "dislikes_normalized":75.264140630196
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.36778,51.54855,0 ]
+    },
+    "properties": {
+    "key":"Northolt",
+    "population":26000,
+    "dislikes_normalized":75.17582380213
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.37736,57.28446,0 ]
+    },
+    "properties": {
+    "key":"Inverurie",
+    "population":11323,
+    "dislikes_normalized":75.046590583417
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.44975,51.75368,0 ]
+    },
+    "properties": {
+    "key":"Hemel Hempstead",
+    "population":85629,
+    "dislikes_normalized":74.612793564626
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.49228,53.31929,0 ]
+    },
+    "properties": {
+    "key":"Rhyl",
+    "population":25874,
+    "dislikes_normalized":74.353884077758
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.97469,51.14931,0 ]
+    },
+    "properties": {
+    "key":"Alton",
+    "population":16584,
+    "dislikes_normalized":74.273823315065
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.75208,52.71009,0 ]
+    },
+    "properties": {
+    "key":"Shrewsbury",
+    "population":69519,
+    "dislikes_normalized":74.212601484637
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.35863,53.75379,0 ]
+    },
+    "properties": {
+    "key":"Accrington",
+    "population":35318,
+    "dislikes_normalized":74.20212786754
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.38672,53.92836,0 ]
+    },
+    "properties": {
+    "key":"Wetherby",
+    "population":10797,
+    "dislikes_normalized":74.141314308575
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.78003,50.83673,0 ]
+    },
+    "properties": {
+    "key":"Chichester",
+    "population":28222,
+    "dislikes_normalized":73.335787768176
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.32443,53.42519,0 ]
+    },
+    "properties": {
+    "key":"Sale",
+    "population":55689,
+    "dislikes_normalized":73.276298757208
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.64184,52.91149,0 ]
+    },
+    "properties": {
+    "key":"Grantham",
+    "population":35720,
+    "dislikes_normalized":73.230569654023
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.11636,52.80521,0 ]
+    },
+    "properties": {
+    "key":"Stafford",
+    "population":65290,
+    "dislikes_normalized":73.100090712299
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.73282,51.34128,0 ]
+    },
+    "properties": {
+    "key":"Sittingbourne",
+    "population":41148,
+    "dislikes_normalized":72.916913589065
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.37371,51.44138,0 ]
+    },
+    "properties": {
+    "key":"Gravesend",
+    "population":54263,
+    "dislikes_normalized":72.885995005958
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.52751,50.7236,0 ]
+    },
+    "properties": {
+    "key":"Exeter",
+    "population":113118,
+    "dislikes_normalized":72.53000931326
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.51667,54.9,0 ]
+    },
+    "properties": {
+    "key":"Washington",
+    "population":53526,
+    "dislikes_normalized":72.529820911114
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.08708,51.26249,0 ]
+    },
+    "properties": {
+    "key":"Basingstoke",
+    "population":96348,
+    "dislikes_normalized":72.416812374567
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.0257,51.3607,0 ]
+    },
+    "properties": {
+    "key":"Whitstable",
+    "population":30195,
+    "dislikes_normalized":72.372031391766
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.46958,51.73575,0 ]
+    },
+    "properties": {
+    "key":"Chelmsford",
+    "population":102671,
+    "dislikes_normalized":72.356265076059
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.09626,54.19594,0 ]
+    },
+    "properties": {
+    "key":"Ulverston",
+    "population":11460,
+    "dislikes_normalized":71.868480329731
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.55039,54.52429,0 ]
+    },
+    "properties": {
+    "key":"Darlington",
+    "population":87204,
+    "dislikes_normalized":71.630800561801
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.29972,51.30873,0 ]
+    },
+    "properties": {
+    "key":"Ashtead",
+    "population":13494,
+    "dislikes_normalized":71.43798549933
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.73333,52.66667,0 ]
+    },
+    "properties": {
+    "key":"Oakham",
+    "population":10150,
+    "dislikes_normalized":71.411610992656
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.05545,50.79693,0 ]
+    },
+    "properties": {
+    "key":"Newhaven",
+    "population":12549,
+    "dislikes_normalized":71.381381362684
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.07854,51.79588,0 ]
+    },
+    "properties": {
+    "key":"Hertford",
+    "population":25847,
+    "dislikes_normalized":71.162735311523
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.7243,50.47151,0 ]
+    },
+    "properties": {
+    "key":"Bodmin",
+    "population":13063,
+    "dislikes_normalized":71.155137405192
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.51667,51.26667,0 ]
+    },
+    "properties": {
+    "key":"Maidstone",
+    "population":90894,
+    "dislikes_normalized":70.672234607603
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.69446,52.30273,0 ]
+    },
+    "properties": {
+    "key":"Wellingborough",
+    "population":49783,
+    "dislikes_normalized":70.575682125243
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.12857,51.373,0 ]
+    },
+    "properties": {
+    "key":"Herne Bay",
+    "population":36642,
+    "dislikes_normalized":70.531881897234
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.51667,53.18333,0 ]
+    },
+    "properties": {
+    "key":"Winsford",
+    "population":30812,
+    "dislikes_normalized":69.991240739916
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.43243,54.33901,0 ]
+    },
+    "properties": {
+    "key":"Northallerton",
+    "population":16480,
+    "dislikes_normalized":69.960560152739
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.13231,53.24488,0 ]
+    },
+    "properties": {
+    "key":"Flint",
+    "population":12068,
+    "dislikes_normalized":69.942774462372
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.22001,52.18935,0 ]
+    },
+    "properties": {
+    "key":"Worcester",
+    "population":100023,
+    "dislikes_normalized":69.645886495589
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.31269,53.69107,0 ]
+    },
+    "properties": {
+    "key":"Pontefract",
+    "population":28620,
+    "dislikes_normalized":69.607160330123
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.80054,51.21444,0 ]
+    },
+    "properties": {
+    "key":"Farnham",
+    "population":36971,
+    "dislikes_normalized":69.507513657311
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.41667,53.25,0 ]
+    },
+    "properties": {
+    "key":"Chesterfield",
+    "population":70679,
+    "dislikes_normalized":69.245836836202
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.18437,51.43433,0 ]
+    },
+    "properties": {
+    "key":"Corsham",
+    "population":11570,
+    "dislikes_normalized":69.157186838161
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.1183,53.54051,0 ]
+    },
+    "properties": {
+    "key":"Oldham",
+    "population":104782,
+    "dislikes_normalized":68.99423596541
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.16191,51.68195,0 ]
+    },
+    "properties": {
+    "key":"Llanelli",
+    "population":47206,
+    "dislikes_normalized":68.805826771871
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.48333,52.65,0 ]
+    },
+    "properties": {
+    "key":"Stamford",
+    "population":20526,
+    "dislikes_normalized":68.770168367838
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.72571,52.39836,0 ]
+    },
+    "properties": {
+    "key":"Kettering",
+    "population":53329,
+    "dislikes_normalized":68.675544928216
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.3,53.6,0 ]
+    },
+    "properties": {
+    "key":"Bury",
+    "population":61044,
+    "dislikes_normalized":68.657092795593
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.20861,51.31889,0 ]
+    },
+    "properties": {
+    "key":"Trowbridge",
+    "population":36922,
+    "dislikes_normalized":68.621593899979
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.16342,51.06098,0 ]
+    },
+    "properties": {
+    "key":"Crowborough",
+    "population":20733,
+    "dislikes_normalized":68.438400270544
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.44495,54.00613,0 ]
+    },
+    "properties": {
+    "key":"Driffield",
+    "population":11495,
+    "dislikes_normalized":68.332408321622
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.78997,56.11586,0 ]
+    },
+    "properties": {
+    "key":"Alloa",
+    "population":18885,
+    "dislikes_normalized":68.218257360003
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.28496,51.94924,0 ]
+    },
+    "properties": {
+    "key":"Hitchin",
+    "population":33830,
+    "dislikes_normalized":68.128304124054
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.49232,50.90241,0 ]
+    },
+    "properties": {
+    "key":"Tiverton",
+    "population":16799,
+    "dislikes_normalized":68.102782226972
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.43333,53.58333,0 ]
+    },
+    "properties": {
+    "key":"Bolton",
+    "population":141331,
+    "dislikes_normalized":67.822000233762
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.02329,51.60938,0 ]
+    },
+    "properties": {
+    "key":"Woodford Green",
+    "population":22803,
+    "dislikes_normalized":67.816300540198
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.78871,50.84541,0 ]
+    },
+    "properties": {
+    "key":"Ringwood",
+    "population":13685,
+    "dislikes_normalized":67.810403723388
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.81458,51.81665,0 ]
+    },
+    "properties": {
+    "key":"Aylesbury",
+    "population":74565,
+    "dislikes_normalized":67.686963396906
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.74934,51.62907,0 ]
+    },
+    "properties": {
+    "key":"High Wycombe",
+    "population":80357,
+    "dislikes_normalized":67.634905316892
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.60364,55.97639,50 ]
+    },
+    "properties": {
+    "key":"Linlithgow",
+    "population":13863,
+    "dislikes_normalized":67.457621242386
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.37538,50.81795,0 ]
+    },
+    "properties": {
+    "key":"Worthing",
+    "population":99110,
+    "dislikes_normalized":67.259344951688
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.75206,53.79391,0 ]
+    },
+    "properties": {
+    "key":"Bradford",
+    "population":299310,
+    "dislikes_normalized":67.118141413771
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.10268,50.77141,0 ]
+    },
+    "properties": {
+    "key":"Seaford",
+    "population":22338,
+    "dislikes_normalized":67.048641704208
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.64398,55.90204,0 ]
+    },
+    "properties": {
+    "key":"Bathgate",
+    "population":15337,
+    "dislikes_normalized":66.400884940832
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.44434,54.42302,0 ]
+    },
+    "properties": {
+    "key":"Portadown",
+    "population":22000,
+    "dislikes_normalized":66.255594570666
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.02875,51.81058,0 ]
+    },
+    "properties": {
+    "key":"Ware",
+    "population":17576,
+    "dislikes_normalized":66.116617756959
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.60168,54.96209,0 ]
+    },
+    "properties": {
+    "key":"Gateshead",
+    "population":77649,
+    "dislikes_normalized":65.786306161304
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.67747,53.70646,0 ]
+    },
+    "properties": {
+    "key":"Heckmondwike",
+    "population":11542,
+    "dislikes_normalized":65.726281303878
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.3702,52.72247,0 ]
+    },
+    "properties": {
+    "key":"Coalville",
+    "population":33288,
+    "dislikes_normalized":65.724225738942
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.48333,53.75,0 ]
+    },
+    "properties": {
+    "key":"Blackburn",
+    "population":106154,
+    "dislikes_normalized":65.251002588142
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.55239,51.43158,0 ]
+    },
+    "properties": {
+    "key":"Egham",
+    "population":29663,
+    "dislikes_normalized":65.104176317563
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.70785,51.09015,0 ]
+    },
+    "properties": {
+    "key":"Haslemere",
+    "population":11923,
+    "dislikes_normalized":64.942255393486
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.76667,53.83333,0 ]
+    },
+    "properties": {
+    "key":"Shipley",
+    "population":28544,
+    "dislikes_normalized":64.843008427267
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.15761,53.40979,0 ]
+    },
+    "properties": {
+    "key":"Stockport",
+    "population":139052,
+    "dislikes_normalized":64.694573576022
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.71529,54.32814,0 ]
+    },
+    "properties": {
+    "key":"Downpatrick",
+    "population":10507,
+    "dislikes_normalized":64.679192169914
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.36251,53.14515,0 ]
+    },
+    "properties": {
+    "key":"Sandbach",
+    "population":18023,
+    "dislikes_normalized":64.544455130774
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.82872,56.02246,0 ]
+    },
+    "properties": {
+    "key":"Larbert",
+    "population":11000,
+    "dislikes_normalized":64.520574722379
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.66895,54.65338,0 ]
+    },
+    "properties": {
+    "key":"Bangor",
+    "population":60385,
+    "dislikes_normalized":64.496598917182
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.03333,55.76667,0 ]
+    },
+    "properties": {
+    "key":"Hamilton",
+    "population":47615,
+    "dislikes_normalized":64.137079123726
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.8795,50.72048,0 ]
+    },
+    "properties": {
+    "key":"Bournemouth",
+    "population":163600,
+    "dislikes_normalized":64.084810504437
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.46644,50.58118,0 ]
+    },
+    "properties": {
+    "key":"Dawlish",
+    "population":10676,
+    "dislikes_normalized":64.063029824814
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.55893,51.31903,0 ]
+    },
+    "properties": {
+    "key":"Woking",
+    "population":103932,
+    "dislikes_normalized":63.913239386914
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.08333,53.16667,0 ]
+    },
+    "properties": {
+    "key":"Buckley",
+    "population":18471,
+    "dislikes_normalized":63.90686336692
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.97935,53.3485,0 ]
+    },
+    "properties": {
+    "key":"Bromborough",
+    "population":14850,
+    "dislikes_normalized":63.635043448917
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.26417,52.37092,0 ]
+    },
+    "properties": {
+    "key":"Rugby",
+    "population":63323,
+    "dislikes_normalized":63.303091050024
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.76667,53.38333,0 ]
+    },
+    "properties": {
+    "key":"Gainsborough",
+    "population":19871,
+    "dislikes_normalized":63.127753486912
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.46851,54.0091,0 ]
+    },
+    "properties": {
+    "key":"Knaresborough",
+    "population":14740,
+    "dislikes_normalized":63.104596876791
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.52288,51.88571,0 ]
+    },
+    "properties": {
+    "key":"Dunstable",
+    "population":51973,
+    "dislikes_normalized":63.034661659483
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.15357,51.89998,0 ]
+    },
+    "properties": {
+    "key":"Bicester",
+    "population":35902,
+    "dislikes_normalized":63.001598938029
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.26049,51.40366,0 ]
+    },
+    "properties": {
+    "key":"Thatcham",
+    "population":24274,
+    "dislikes_normalized":62.97443361334
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.02664,52.97633,0 ]
+    },
+    "properties": {
+    "key":"Boston",
+    "population":35859,
+    "dislikes_normalized":62.806554657008
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.52786,51.37891,0 ]
+    },
+    "properties": {
+    "key":"Chatham",
+    "population":75509,
+    "dislikes_normalized":62.62270218477
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.40443,54.27966,0 ]
+    },
+    "properties": {
+    "key":"Scarborough",
+    "population":38909,
+    "dislikes_normalized":62.502052185636
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.67463,51.7311,0 ]
+    },
+    "properties": {
+    "key":"Maldon",
+    "population":21193,
+    "dislikes_normalized":62.427629218183
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.25775,50.8622,0 ]
+    },
+    "properties": {
+    "key":"Hailsham",
+    "population":19604,
+    "dislikes_normalized":62.01579893905
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.5556,53.13838,0 ]
+    },
+    "properties": {
+    "key":"Matlock",
+    "population":11516,
+    "dislikes_normalized":61.662591751973
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.4113,51.32997,0 ]
+    },
+    "properties": {
+    "key":"Cobham",
+    "population":16724,
+    "dislikes_normalized":61.624285382623
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.06806,55.89317,0 ]
+    },
+    "properties": {
+    "key":"Dalkeith",
+    "population":11502,
+    "dislikes_normalized":61.607475872467
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.80443,51.66317,0 ]
+    },
+    "properties": {
+    "key":"Neath",
+    "population":46126,
+    "dislikes_normalized":61.579605959745
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.99835,51.58774,0 ]
+    },
+    "properties": {
+    "key":"Newport",
+    "population":117326,
+    "dislikes_normalized":61.344776462075
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.20691,51.80174,0 ]
+    },
+    "properties": {
+    "key":"Welwyn Garden City",
+    "population":44725,
+    "dislikes_normalized":61.293633234095
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.22398,57.47908,0 ]
+    },
+    "properties": {
+    "key":"Inverness",
+    "population":40755,
+    "dislikes_normalized":61.209083493113
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.83148,53.32498,0 ]
+    },
+    "properties": {
+    "key":"Llandudno",
+    "population":15037,
+    "dislikes_normalized":61.149713020581
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.47133,55.93415,0 ]
+    },
+    "properties": {
+    "key":"Broxburn",
+    "population":13288,
+    "dislikes_normalized":61.022540631477
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.29772,50.76306,0 ]
+    },
+    "properties": {
+    "key":"Cowes",
+    "population":17000,
+    "dislikes_normalized":60.985427479811
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.89983,52.48142,0 ]
+    },
+    "properties": {
+    "key":"Birmingham",
+    "population":984333,
+    "dislikes_normalized":60.775463833839
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.44161,53.09787,0 ]
+    },
+    "properties": {
+    "key":"Crewe",
+    "population":70455,
+    "dislikes_normalized":60.614115640081
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.52261,55.90288,0 ]
+    },
+    "properties": {
+    "key":"Livingston",
+    "population":53798,
+    "dislikes_normalized":60.591112565963
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.24214,51.60928,0 ]
+    },
+    "properties": {
+    "key":"Didcot",
+    "population":25793,
+    "dislikes_normalized":60.509447951854
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.32211,51.22834,0 ]
+    },
+    "properties": {
+    "key":"Frome",
+    "population":24948,
+    "dislikes_normalized":60.487749278811
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.56465,52.45936,0 ]
+    },
+    "properties": {
+    "key":"Beccles",
+    "population":13205,
+    "dislikes_normalized":60.423558314947
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.45,56.7,0 ]
+    },
+    "properties": {
+    "key":"Montrose",
+    "population":10620,
+    "dislikes_normalized":60.198107230226
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.55292,51.87819,0 ]
+    },
+    "properties": {
+    "key":"Braintree",
+    "population":46765,
+    "dislikes_normalized":60.080354561729
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.40418,52.24467,0 ]
+    },
+    "properties": {
+    "key":"Newmarket",
+    "population":17324,
+    "dislikes_normalized":59.967601475283
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.4,53.03333,0 ]
+    },
+    "properties": {
+    "key":"Ripley",
+    "population":21097,
+    "dislikes_normalized":59.86498584877
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.30951,52.97055,0 ]
+    },
+    "properties": {
+    "key":"Ilkeston",
+    "population":38587,
+    "dislikes_normalized":59.728453199103
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.51546,54.97302,0 ]
+    },
+    "properties": {
+    "key":"Hebburn",
+    "population":18808,
+    "dislikes_normalized":59.585715446415
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.6,51.7,0 ]
+    },
+    "properties": {
+    "key":"Chesham",
+    "population":20649,
+    "dislikes_normalized":59.548972828407
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.71482,52.05684,0 ]
+    },
+    "properties": {
+    "key":"Hereford",
+    "population":58281,
+    "dislikes_normalized":59.328358418329
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.30556,51.62127,0 ]
+    },
+    "properties": {
+    "key":"Brentwood",
+    "population":47606,
+    "dislikes_normalized":59.069947586744
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.3,51.13333,0 ]
+    },
+    "properties": {
+    "key":"Dover",
+    "population":28156,
+    "dislikes_normalized":59.067211406613
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.78129,50.73583,0 ]
+    },
+    "properties": {
+    "key":"Christchurch",
+    "population":42396,
+    "dislikes_normalized":58.960209327566
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.37482,53.30289,0 ]
+    },
+    "properties": {
+    "key":"Knutsford",
+    "population":12938,
+    "dislikes_normalized":58.922920230836
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.3187,51.06513,0 ]
+    },
+    "properties": {
+    "key":"Winchester",
+    "population":40000,
+    "dislikes_normalized":58.649320785385
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.14317,52.45608,0 ]
+    },
+    "properties": {
+    "key":"Stourbridge",
+    "population":56284,
+    "dislikes_normalized":58.443969365509
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.88693,52.76588,0 ]
+    },
+    "properties": {
+    "key":"Melton Mowbray",
+    "population":26405,
+    "dislikes_normalized":58.057729910217
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.12902,50.79509,0 ]
+    },
+    "properties": {
+    "key":"Gosport",
+    "population":70793,
+    "dislikes_normalized":58.013651099016
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.67683,51.64087,0 ]
+    },
+    "properties": {
+    "key":"Chepstow",
+    "population":11062,
+    "dislikes_normalized":57.969583836537
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.42033,52.53661,0 ]
+    },
+    "properties": {
+    "key":"Bridgnorth",
+    "population":12156,
+    "dislikes_normalized":57.963254180019
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.18312,51.11303,0 ]
+    },
+    "properties": {
+    "key":"Crawley",
+    "population":107061,
+    "dislikes_normalized":57.832195062041
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.14305,50.37153,0 ]
+    },
+    "properties": {
+    "key":"Plymouth",
+    "population":247297,
+    "dislikes_normalized":57.752150744653
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.61667,51.66667,0 ]
+    },
+    "properties": {
+    "key":"Amersham",
+    "population":21731,
+    "dislikes_normalized":57.587728327436
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.48423,54.98036,0 ]
+    },
+    "properties": {
+    "key":"Jarrow",
+    "population":27264,
+    "dislikes_normalized":57.421389208175
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.9382,54.8951,0 ]
+    },
+    "properties": {
+    "key":"Carlisle",
+    "population":72633,
+    "dislikes_normalized":57.371846963128
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.72674,53.29483,0 ]
+    },
+    "properties": {
+    "key":"Colwyn Bay",
+    "population":30829,
+    "dislikes_normalized":57.311974420621
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.02281,51.65446,0 ]
+    },
+    "properties": {
+    "key":"Cwmbran",
+    "population":48157,
+    "dislikes_normalized":57.307239421407
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.51217,52.40656,0 ]
+    },
+    "properties": {
+    "key":"Coventry",
+    "population":308313,
+    "dislikes_normalized":57.258746193074
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.86488,52.89838,0 ]
+    },
+    "properties": {
+    "key":"Uttoxeter",
+    "population":12291,
+    "dislikes_normalized":57.2012778827
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.49768,53.68331,0 ]
+    },
+    "properties": {
+    "key":"Wakefield",
+    "population":78978,
+    "dislikes_normalized":57.189096942544
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.2397,50.69094,0 ]
+    },
+    "properties": {
+    "key":"Sidmouth",
+    "population":11853,
+    "dislikes_normalized":57.186418550687
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.52025,53.25882,0 ]
+    },
+    "properties": {
+    "key":"Northwich",
+    "population":42113,
+    "dislikes_normalized":57.170425305267
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.16066,52.25688,0 ]
+    },
+    "properties": {
+    "key":"Daventry",
+    "population":22215,
+    "dislikes_normalized":57.105902507535
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.94569,52.3065,0 ]
+    },
+    "properties": {
+    "key":"Redditch",
+    "population":77128,
+    "dislikes_normalized":57.095856666009
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.74055,52.75978,0 ]
+    },
+    "properties": {
+    "key":"Wymondham",
+    "population":11674,
+    "dislikes_normalized":57.017847029289
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.18007,50.93388,0 ]
+    },
+    "properties": {
+    "key":"Hurstpierpoint",
+    "population":11391,
+    "dislikes_normalized":56.969271382927
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.40941,52.99826,0 ]
+    },
+    "properties": {
+    "key":"Sleaford",
+    "population":15558,
+    "dislikes_normalized":56.560299757826
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.65823,51.60926,0 ]
+    },
+    "properties": {
+    "key":"Maesteg",
+    "population":17829,
+    "dislikes_normalized":56.518254961623
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.32247,50.82882,0 ]
+    },
+    "properties": {
+    "key":"Lancing",
+    "population":18692,
+    "dislikes_normalized":56.196279627303
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.08333,51.53333,0 ]
+    },
+    "properties": {
+    "key":"Barking",
+    "population":61000,
+    "dislikes_normalized":55.889269937825
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.16734,51.08169,0 ]
+    },
+    "properties": {
+    "key":"Folkestone",
+    "population":45992,
+    "dislikes_normalized":55.87602161855
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.23483,54.57623,0 ]
+    },
+    "properties": {
+    "key":"Middlesbrough",
+    "population":142707,
+    "dislikes_normalized":55.35997267908
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.16667,51.55,0 ]
+    },
+    "properties": {
+    "key":"Dagenham",
+    "population":108368,
+    "dislikes_normalized":55.344013772373
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.97489,56.46913,0 ]
+    },
+    "properties": {
+    "key":"Dundee",
+    "population":151592,
+    "dislikes_normalized":55.31289912073
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.75054,51.41363,0 ]
+    },
+    "properties": {
+    "key":"Bracknell",
+    "population":76103,
+    "dislikes_normalized":55.226178380773
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.21941,53.59245,0 ]
+    },
+    "properties": {
+    "key":"Heywood",
+    "population":28024,
+    "dislikes_normalized":55.182652321879
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.82549,52.68154,0 ]
+    },
+    "properties": {
+    "key":"Lichfield",
+    "population":28973,
+    "dislikes_normalized":54.965742497807
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.29042,53.48771,0 ]
+    },
+    "properties": {
+    "key":"Salford",
+    "population":72750,
+    "dislikes_normalized":54.683632446689
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.64896,51.20794,0 ]
+    },
+    "properties": {
+    "key":"Wells",
+    "population":10638,
+    "dislikes_normalized":54.229347995806
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.78416,53.64904,0 ]
+    },
+    "properties": {
+    "key":"Huddersfield",
+    "population":149017,
+    "dislikes_normalized":53.776173918512
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.54863,51.38914,0 ]
+    },
+    "properties": {
+    "key":"Gillingham",
+    "population":101187,
+    "dislikes_normalized":53.4484626344
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.75,52.41667,0 ]
+    },
+    "properties": {
+    "key":"Thetford",
+    "population":21588,
+    "dislikes_normalized":53.332863489438
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.68893,55.16882,0 ]
+    },
+    "properties": {
+    "key":"Morpeth",
+    "population":13857,
+    "dislikes_normalized":53.241597538184
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.65508,55.6194,0 ]
+    },
+    "properties": {
+    "key":"Irvine",
+    "population":32748,
+    "dislikes_normalized":53.116426660512
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.52051,53.06878,0 ]
+    },
+    "properties": {
+    "key":"Nantwich",
+    "population":13746,
+    "dislikes_normalized":53.103387429161
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.07319,50.41557,0 ]
+    },
+    "properties": {
+    "key":"Newquay",
+    "population":19998,
+    "dislikes_normalized":53.021328674467
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.29021,52.7657,0 ]
+    },
+    "properties": {
+    "key":"Shepshed",
+    "population":13169,
+    "dislikes_normalized":52.831541010915
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.72218,52.08731,0 ]
+    },
+    "properties": {
+    "key":"Newport Pagnell",
+    "population":15067,
+    "dislikes_normalized":52.792948944041
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.09125,50.79899,0 ]
+    },
+    "properties": {
+    "key":"Portsmouth",
+    "population":194150,
+    "dislikes_normalized":52.777205823393
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.37613,52.5389,0 ]
+    },
+    "properties": {
+    "key":"Hinckley",
+    "population":45130,
+    "dislikes_normalized":52.758229673555
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.51434,50.46384,0 ]
+    },
+    "properties": {
+    "key":"Torquay",
+    "population":65388,
+    "dislikes_normalized":52.27696585917
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.23148,53.32803,0 ]
+    },
+    "properties": {
+    "key":"Wilmslow",
+    "population":36617,
+    "dislikes_normalized":52.077006835464
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.74491,52.22583,0 ]
+    },
+    "properties": {
+    "key":"Leominster",
+    "population":10673,
+    "dislikes_normalized":52.053419918577
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.12404,53.30182,0 ]
+    },
+    "properties": {
+    "key":"Worksop",
+    "population":40443,
+    "dislikes_normalized":51.872908956517
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.1285,51.35045,0 ]
+    },
+    "properties": {
+    "key":"Tadley",
+    "population":15990,
+    "dislikes_normalized":51.621717241626
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.12296,52.58547,0 ]
+    },
+    "properties": {
+    "key":"Wolverhampton",
+    "population":252791,
+    "dislikes_normalized":51.273835116327
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.66667,54.35,0 ]
+    },
+    "properties": {
+    "key":"Armagh",
+    "population":14801,
+    "dislikes_normalized":51.249868163694
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.52826,54.13579,0 ]
+    },
+    "properties": {
+    "key":"Ripon",
+    "population":16835,
+    "dislikes_normalized":51.075272375469
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.51605,55.82906,0 ]
+    },
+    "properties": {
+    "key":"Johnstone",
+    "population":15705,
+    "dislikes_normalized":51.054046463244
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.77348,53.55024,0 ]
+    },
+    "properties": {
+    "key":"Skelmersdale",
+    "population":38944,
+    "dislikes_normalized":50.856724785552
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.65437,53.57905,0 ]
+    },
+    "properties": {
+    "key":"Scunthorpe",
+    "population":72514,
+    "dislikes_normalized":50.652889386173
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.76723,54.50344,0 ]
+    },
+    "properties": {
+    "key":"Dungannon",
+    "population":11935,
+    "dislikes_normalized":50.554986337541
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.21423,51.44657,0 ]
+    },
+    "properties": {
+    "key":"Dartford",
+    "population":56694,
+    "dislikes_normalized":50.382980513153
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.8316,54.85404,0 ]
+    },
+    "properties": {
+    "key":"Consett",
+    "population":21016,
+    "dislikes_normalized":50.019342238508
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.78116,51.55797,0 ]
+    },
+    "properties": {
+    "key":"Swindon",
+    "population":155432,
+    "dislikes_normalized":49.962203271456
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.3713,51.50896,0 ]
+    },
+    "properties": {
+    "key":"Southall",
+    "population":70000,
+    "dislikes_normalized":49.958402007026
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.1552,53.61766,0 ]
+    },
+    "properties": {
+    "key":"Rochdale",
+    "population":97550,
+    "dislikes_normalized":49.847967815131
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.45782,51.56844,0 ]
+    },
+    "properties": {
+    "key":"Basildon",
+    "population":101362,
+    "dislikes_normalized":49.774482605749
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.35856,51.46248,0 ]
+    },
+    "properties": {
+    "key":"Tilbury",
+    "population":11717,
+    "dislikes_normalized":49.744387606516
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.41757,51.70573,0 ]
+    },
+    "properties": {
+    "key":"Abbots Langley",
+    "population":10472,
+    "dislikes_normalized":49.559576052015
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.38617,51.38132,0 ]
+    },
+    "properties": {
+    "key":"Margate",
+    "population":60134,
+    "dislikes_normalized":49.225066946682
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.29243,53.49389,0 ]
+    },
+    "properties": {
+    "key":"Mexborough",
+    "population":15079,
+    "dislikes_normalized":49.086451532823
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.64038,51.80007,0 ]
+    },
+    "properties": {
+    "key":"Witham",
+    "population":22995,
+    "dislikes_normalized":48.971270292691
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.90664,53.86791,0 ]
+    },
+    "properties": {
+    "key":"Keighley",
+    "population":50171,
+    "dislikes_normalized":48.961620497031
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.49989,50.98906,0 ]
+    },
+    "properties": {
+    "key":"Romsey",
+    "population":17773,
+    "dislikes_normalized":48.752212681275
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.15,52.26667,0 ]
+    },
+    "properties": {
+    "key":"Droitwich",
+    "population":23588,
+    "dislikes_normalized":48.653132952657
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.28925,52.12927,0 ]
+    },
+    "properties": {
+    "key":"Sandy",
+    "population":11129,
+    "dislikes_normalized":48.464135810651
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.83333,51.28333,0 ]
+    },
+    "properties": {
+    "key":"Fleet",
+    "population":34218,
+    "dislikes_normalized":48.418015169189
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.11055,51.69815,0 ]
+    },
+    "properties": {
+    "key":"Epping",
+    "population":10109,
+    "dislikes_normalized":48.386430750957
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.00438,53.36664,0 ]
+    },
+    "properties": {
+    "key":"Louth",
+    "population":16635,
+    "dislikes_normalized":48.251620235633
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.98396,52.58528,0 ]
+    },
+    "properties": {
+    "key":"Walsall",
+    "population":172141,
+    "dislikes_normalized":48.189168553656
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.25,52.38819,0 ]
+    },
+    "properties": {
+    "key":"Kidderminster",
+    "population":56657,
+    "dislikes_normalized":48.142089946587
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.38222,54.90465,0 ]
+    },
+    "properties": {
+    "key":"Sunderland",
+    "population":177965,
+    "dislikes_normalized":48.021797549117
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.41797,51.33568,0 ]
+    },
+    "properties": {
+    "key":"Ramsgate",
+    "population":38624,
+    "dislikes_normalized":47.984479808285
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.05808,51.08022,0 ]
+    },
+    "properties": {
+    "key":"Barnstaple",
+    "population":32532,
+    "dislikes_normalized":47.581797683587
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.3338,51.29652,0 ]
+    },
+    "properties": {
+    "key":"Leatherhead",
+    "population":43544,
+    "dislikes_normalized":47.42959159332
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.17044,51.24048,0 ]
+    },
+    "properties": {
+    "key":"Redhill",
+    "population":51559,
+    "dislikes_normalized":47.350204331795
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.85,53.71667,0 ]
+    },
+    "properties": {
+    "key":"Halifax",
+    "population":82624,
+    "dislikes_normalized":47.257206768029
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.94315,53.32213,0 ]
+    },
+    "properties": {
+    "key":"Retford",
+    "population":21897,
+    "dislikes_normalized":47.239422621511
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.66335,55.54359,0 ]
+    },
+    "properties": {
+    "key":"Troon",
+    "population":14900,
+    "dislikes_normalized":47.165919183803
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.76121,55.94838,0 ]
+    },
+    "properties": {
+    "key":"Greenock",
+    "population":43495,
+    "dislikes_normalized":46.961137338855
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.4,53.86667,0 ]
+    },
+    "properties": {
+    "key":"Clitheroe",
+    "population":15024,
+    "dislikes_normalized":46.903965238343
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.61498,54.48774,0 ]
+    },
+    "properties": {
+    "key":"Whitby",
+    "population":13897,
+    "dislikes_normalized":46.841173129581
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.80031,53.42948,0 ]
+    },
+    "properties": {
+    "key":"Prescot",
+    "population":40889,
+    "dislikes_normalized":46.751103219035
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.60184,52.28927,0 ]
+    },
+    "properties": {
+    "key":"Rushden",
+    "population":26307,
+    "dislikes_normalized":46.655995840242
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.26493,52.08652,0 ]
+    },
+    "properties": {
+    "key":"Biggleswade",
+    "population":15726,
+    "dislikes_normalized":46.521945849525
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.58598,55.08652,0 ]
+    },
+    "properties": {
+    "key":"Cramlington",
+    "population":29985,
+    "dislikes_normalized":46.373439697418
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.05,53.81667,0 ]
+    },
+    "properties": {
+    "key":"Blackpool",
+    "population":143101,
+    "dislikes_normalized":46.320422077152
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.90134,53.27875,0 ]
+    },
+    "properties": {
+    "key":"Ellesmere Port",
+    "population":67768,
+    "dislikes_normalized":46.242663584862
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.8058,54.7158,0 ]
+    },
+    "properties": {
+    "key":"Carrickfergus",
+    "population":29208,
+    "dislikes_normalized":46.012726276372
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.15999,56.11683,0 ]
+    },
+    "properties": {
+    "key":"Kirkcaldy",
+    "population":46912,
+    "dislikes_normalized":45.990463182433
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.23333,53.8,0 ]
+    },
+    "properties": {
+    "key":"Burnley",
+    "population":73480,
+    "dislikes_normalized":45.976839443046
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.27628,54.86357,0 ]
+    },
+    "properties": {
+    "key":"Ballymena",
+    "population":28932,
+    "dislikes_normalized":45.907894646634
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.02526,51.40878,0 ]
+    },
+    "properties": {
+    "key":"Beckenham",
+    "population":82000,
+    "dislikes_normalized":45.871618488908
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.07943,53.45131,0 ]
+    },
+    "properties": {
+    "key":"Hyde",
+    "population":31926,
+    "dislikes_normalized":45.783807714586
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.20256,51.90224,0 ]
+    },
+    "properties": {
+    "key":"Stevenage",
+    "population":84651,
+    "dislikes_normalized":45.759264027798
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.58412,54.54897,0 ]
+    },
+    "properties": {
+    "key":"Whitehaven",
+    "population":24803,
+    "dislikes_normalized":45.658202568528
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.48119,53.0233,0 ]
+    },
+    "properties": {
+    "key":"Belper",
+    "population":22427,
+    "dislikes_normalized":45.528790383026
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.69587,52.63399,0 ]
+    },
+    "properties": {
+    "key":"Tamworth",
+    "population":74129,
+    "dislikes_normalized":45.454729088135
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.65802,51.91722,0 ]
+    },
+    "properties": {
+    "key":"Leighton Buzzard",
+    "population":33467,
+    "dislikes_normalized":45.323850210657
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.35,50.96667,0 ]
+    },
+    "properties": {
+    "key":"Eastleigh",
+    "population":54225,
+    "dislikes_normalized":45.298769265165
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.67706,54.65554,0 ]
+    },
+    "properties": {
+    "key":"Bishop Auckland",
+    "population":25665,
+    "dislikes_normalized":45.162540866912
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.43891,52.08226,0 ]
+    },
+    "properties": {
+    "key":"Haverhill",
+    "population":22500,
+    "dislikes_normalized":45.160328418641
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.56789,50.43565,0 ]
+    },
+    "properties": {
+    "key":"Paignton",
+    "population":49886,
+    "dislikes_normalized":45.160046899067
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.24234,52.02337,0 ]
+    },
+    "properties": {
+    "key":"Saffron Walden",
+    "population":14632,
+    "dislikes_normalized":45.092420817329
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.05908,53.48414,0 ]
+    },
+    "properties": {
+    "key":"Stalybridge",
+    "population":22748,
+    "dislikes_normalized":44.994033716432
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.03085,52.69045,0 ]
+    },
+    "properties": {
+    "key":"Cannock",
+    "population":68067,
+    "dislikes_normalized":44.867113568478
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.91667,52.5,0 ]
+    },
+    "properties": {
+    "key":"Hockley",
+    "population":13919,
+    "dislikes_normalized":44.71527215724
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.04991,55.9417,0 ]
+    },
+    "properties": {
+    "key":"Musselburgh",
+    "population":22656,
+    "dislikes_normalized":44.686690919075
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.80695,55.61458,0 ]
+    },
+    "properties": {
+    "key":"Galashiels",
+    "population":14351,
+    "dislikes_normalized":44.567294157448
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.13432,51.72981,0 ]
+    },
+    "properties": {
+    "key":"Abertillery",
+    "population":11318,
+    "dislikes_normalized":44.501929241989
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.15,52.03333,0 ]
+    },
+    "properties": {
+    "key":"Brackley",
+    "population":13628,
+    "dislikes_normalized":44.498945315316
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.08809,53.47497,0 ]
+    },
+    "properties": {
+    "key":"Dukinfield",
+    "population":19306,
+    "dislikes_normalized":44.44815961492
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.12564,53.26023,0 ]
+    },
+    "properties": {
+    "key":"Macclesfield",
+    "population":51739,
+    "dislikes_normalized":44.309860143819
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.63211,53.30621,0 ]
+    },
+    "properties": {
+    "key":"Holyhead",
+    "population":11362,
+    "dislikes_normalized":44.070145358485
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.51973,53.49642,0 ]
+    },
+    "properties": {
+    "key":"Leigh",
+    "population":43626,
+    "dislikes_normalized":43.907987234449
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.49581,55.61171,0 ]
+    },
+    "properties": {
+    "key":"Kilmarnock",
+    "population":42904,
+    "dislikes_normalized":43.701103106366
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.44926,52.67659,0 ]
+    },
+    "properties": {
+    "key":"Telford",
+    "population":138241,
+    "dislikes_normalized":43.600045626289
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.46523,52.52323,0 ]
+    },
+    "properties": {
+    "key":"Nuneaton",
+    "population":73555,
+    "dislikes_normalized":43.568469004632
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.32521,51.47566,0 ]
+    },
+    "properties": {
+    "key":"Grays",
+    "population":70934,
+    "dislikes_normalized":43.557702953162
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.76389,51.24827,0 ]
+    },
+    "properties": {
+    "key":"Aldershot",
+    "population":61339,
+    "dislikes_normalized":43.362934321031
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.73406,53.3618,0 ]
+    },
+    "properties": {
+    "key":"Widnes",
+    "population":56097,
+    "dislikes_normalized":43.30788559282
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.28453,50.76871,0 ]
+    },
+    "properties": {
+    "key":"Eastbourne",
+    "population":112906,
+    "dislikes_normalized":43.305470426588
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.69383,53.90553,0 ]
+    },
+    "properties": {
+    "key":"Otley",
+    "population":14668,
+    "dislikes_normalized":43.291884311469
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.55,54.68333,0 ]
+    },
+    "properties": {
+    "key":"Ferryhill",
+    "population":10789,
+    "dislikes_normalized":43.269748713724
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.93697,50.84779,0 ]
+    },
+    "properties": {
+    "key":"Emsworth",
+    "population":18543,
+    "dislikes_normalized":43.190122205207
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.6337,53.70291,0 ]
+    },
+    "properties": {
+    "key":"Batley",
+    "population":50807,
+    "dislikes_normalized":42.983844760999
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.68758,53.69786,0 ]
+    },
+    "properties": {
+    "key":"Leyland",
+    "population":37614,
+    "dislikes_normalized":42.669086061585
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.45991,50.61448,0 ]
+    },
+    "properties": {
+    "key":"Weymouth",
+    "population":50253,
+    "dislikes_normalized":42.65365435448
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.48284,51.20452,0 ]
+    },
+    "properties": {
+    "key":"Minehead",
+    "population":11960,
+    "dislikes_normalized":42.433772120547
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.38746,52.82121,0 ]
+    },
+    "properties": {
+    "key":"North Walsham",
+    "population":12109,
+    "dislikes_normalized":42.385947517301
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.47663,52.92277,0 ]
+    },
+    "properties": {
+    "key":"Derby",
+    "population":235029,
+    "dislikes_normalized":42.364129341145
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.11158,51.77655,0 ]
+    },
+    "properties": {
+    "key":"Harlow",
+    "population":94365,
+    "dislikes_normalized":42.321393182867
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.4987,51.82421,0 ]
+    },
+    "properties": {
+    "key":"Cinderford",
+    "population":10293,
+    "dislikes_normalized":42.238017432953
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.35706,51.81684,0 ]
+    },
+    "properties": {
+    "key":"Harpenden",
+    "population":28966,
+    "dislikes_normalized":42.177066439599
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.65824,51.79471,0 ]
+    },
+    "properties": {
+    "key":"Tring",
+    "population":12099,
+    "dislikes_normalized":42.082877255521
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.83857,53.84861,0 ]
+    },
+    "properties": {
+    "key":"Bingley",
+    "population":20327,
+    "dislikes_normalized":41.753655544551
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.10759,51.46246,0 ]
+    },
+    "properties": {
+    "key":"Welling",
+    "population":42500,
+    "dislikes_normalized":41.679246918986
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.5373,53.99078,0 ]
+    },
+    "properties": {
+    "key":"Harrogate",
+    "population":87024,
+    "dislikes_normalized":41.620010516641
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.96667,55.73333,0 ]
+    },
+    "properties": {
+    "key":"Larkhall",
+    "population":15410,
+    "dislikes_normalized":41.505616412979
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.44889,51.39546,0 ]
+    },
+    "properties": {
+    "key":"Shepperton",
+    "population":10106,
+    "dislikes_normalized":41.47904537527
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.64133,54.34615,0 ]
+    },
+    "properties": {
+    "key":"Enniskillen",
+    "population":14472,
+    "dislikes_normalized":41.214479463867
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.69636,53.67343,0 ]
+    },
+    "properties": {
+    "key":"Mirfield",
+    "population":18800,
+    "dislikes_normalized":41.211128250016
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.31843,57.64947,0 ]
+    },
+    "properties": {
+    "key":"Elgin",
+    "population":21236,
+    "dislikes_normalized":41.204591457438
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.3065,51.36803,0 ]
+    },
+    "properties": {
+    "key":"Hook",
+    "population":18973,
+    "dislikes_normalized":41.16637857096
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.98458,50.71429,0 ]
+    },
+    "properties": {
+    "key":"Poole",
+    "population":150092,
+    "dislikes_normalized":41.056052478399
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.0341,51.71278,0 ]
+    },
+    "properties": {
+    "key":"Milford Haven",
+    "population":12972,
+    "dislikes_normalized":40.964654468409
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.15868,51.87113,0 ]
+    },
+    "properties": {
+    "key":"Bishops Stortford",
+    "population":45001,
+    "dislikes_normalized":40.948779139847
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.40776,53.33748,0 ]
+    },
+    "properties": {
+    "key":"Prestatyn",
+    "population":18701,
+    "dislikes_normalized":40.896411614537
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.73124,53.34174,0 ]
+    },
+    "properties": {
+    "key":"Runcorn",
+    "population":59679,
+    "dislikes_normalized":40.85121553147
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.53397,54.99111,0 ]
+    },
+    "properties": {
+    "key":"Wallsend",
+    "population":42739,
+    "dislikes_normalized":40.775521897052
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.37779,51.74794,0 ]
+    },
+    "properties": {
+    "key":"Merthyr Tydfil",
+    "population":30821,
+    "dislikes_normalized":40.554361247869
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.18883,51.27266,0 ]
+    },
+    "properties": {
+    "key":"Sevenoaks",
+    "population":27871,
+    "dislikes_normalized":40.456110116478
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.95074,55.05045,0 ]
+    },
+    "properties": {
+    "key":"Limavady",
+    "population":12970,
+    "dislikes_normalized":40.409939573317
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.35333,51.68139,0 ]
+    },
+    "properties": {
+    "key":"Dursley",
+    "population":13652,
+    "dislikes_normalized":40.376202035217
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.06773,52.52956,0 ]
+    },
+    "properties": {
+    "key":"Tipton",
+    "population":47000,
+    "dislikes_normalized":40.29468539337
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.51667,52.7,0 ]
+    },
+    "properties": {
+    "key":"Wellington",
+    "population":22816,
+    "dislikes_normalized":40.236519943682
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.44713,55.03973,0 ]
+    },
+    "properties": {
+    "key":"Whitley Bay",
+    "population":38055,
+    "dislikes_normalized":39.993848749192
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.00601,51.25687,0 ]
+    },
+    "properties": {
+    "key":"Oxted",
+    "population":12856,
+    "dislikes_normalized":39.95635539167
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.29034,54.58881,0 ]
+    },
+    "properties": {
+    "key":"Billingham",
+    "population":35708,
+    "dislikes_normalized":39.938986782817
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.88178,53.56685,0 ]
+    },
+    "properties": {
+    "key":"Ormskirk",
+    "population":23792,
+    "dislikes_normalized":39.732189279181
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.28333,54.35,0 ]
+    },
+    "properties": {
+    "key":"Banbridge",
+    "population":16173,
+    "dislikes_normalized":39.722166013853
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.74757,54.32681,0 ]
+    },
+    "properties": {
+    "key":"Kendal",
+    "population":29468,
+    "dislikes_normalized":39.547775675653
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.36256,53.72587,0 ]
+    },
+    "properties": {
+    "key":"Castleford",
+    "population":39142,
+    "dislikes_normalized":39.443984922735
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.07889,51.2823,0 ]
+    },
+    "properties": {
+    "key":"Caterham",
+    "population":20957,
+    "dislikes_normalized":39.421891675542
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.78428,53.70322,0 ]
+    },
+    "properties": {
+    "key":"Brighouse",
+    "population":32872,
+    "dislikes_normalized":39.090727739319
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.5443,50.75767,0 ]
+    },
+    "properties": {
+    "key":"Lymington",
+    "population":14544,
+    "dislikes_normalized":39.09008907109
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.4057,55.90137,0 ]
+    },
+    "properties": {
+    "key":"Clydebank",
+    "population":29867,
+    "dislikes_normalized":38.881205447898
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.33525,53.7446,0 ]
+    },
+    "properties": {
+    "key":"Hull",
+    "population":302296,
+    "dislikes_normalized":38.837835315227
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.1621,50.72999,0 ]
+    },
+    "properties": {
+    "key":"Ryde",
+    "population":24107,
+    "dislikes_normalized":38.751696429952
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.87732,53.70324,0 ]
+    },
+    "properties": {
+    "key":"Goole",
+    "population":19158,
+    "dislikes_normalized":38.717293592427
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.32042,52.09332,0 ]
+    },
+    "properties": {
+    "key":"Woodbridge",
+    "population":11200,
+    "dislikes_normalized":38.703379225988
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.44402,53.19296,0 ]
+    },
+    "properties": {
+    "key":"Middlewich",
+    "population":13393,
+    "dislikes_normalized":38.621076618091
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.91914,50.39039,0 ]
+    },
+    "properties": {
+    "key":"Ivybridge",
+    "population":13277,
+    "dislikes_normalized":38.215951005619
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.04938,52.44859,0 ]
+    },
+    "properties": {
+    "key":"Halesowen",
+    "population":55265,
+    "dislikes_normalized":38.147953808029
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.57061,55.94433,0 ]
+    },
+    "properties": {
+    "key":"Dumbarton",
+    "population":19878,
+    "dislikes_normalized":37.692195217019
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.69846,54.86796,0 ]
+    },
+    "properties": {
+    "key":"Stanley",
+    "population":16200,
+    "dislikes_normalized":37.631113078444
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.62907,53.69076,0 ]
+    },
+    "properties": {
+    "key":"Dewsbury",
+    "population":56640,
+    "dislikes_normalized":37.08947588732
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.35383,53.01372,0 ]
+    },
+    "properties": {
+    "key":"Heanor",
+    "population":23122,
+    "dislikes_normalized":36.970940210418
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.69092,54.59236,0 ]
+    },
+    "properties": {
+    "key":"Newtownards",
+    "population":29363,
+    "dislikes_normalized":36.894933212164
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.4323,54.99859,0 ]
+    },
+    "properties": {
+    "key":"South Shields",
+    "population":83655,
+    "dislikes_normalized":36.653446577359
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.78094,52.41426,0 ]
+    },
+    "properties": {
+    "key":"Solihull",
+    "population":96267,
+    "dislikes_normalized":36.592774686556
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.40233,50.61723,0 ]
+    },
+    "properties": {
+    "key":"Exmouth",
+    "population":32972,
+    "dislikes_normalized":36.409145378968
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.01743,51.82098,0 ]
+    },
+    "properties": {
+    "key":"Abergavenny",
+    "population":14211,
+    "dislikes_normalized":36.407943352291
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.38333,52.76667,0 ]
+    },
+    "properties": {
+    "key":"Bourne",
+    "population":12060,
+    "dislikes_normalized":36.376838098257
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.39516,52.75172,0 ]
+    },
+    "properties": {
+    "key":"King's Lynn",
+    "population":34564,
+    "dislikes_normalized":36.359079333873
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.387,54.44709,0 ]
+    },
+    "properties": {
+    "key":"Craigavon",
+    "population":59236,
+    "dislikes_normalized":36.124270044853
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.81667,52.56667,0 ]
+    },
+    "properties": {
+    "key":"Sutton Coldfield",
+    "population":107030,
+    "dislikes_normalized":36.091298168204
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.98559,50.8567,0 ]
+    },
+    "properties": {
+    "key":"Havant",
+    "population":45574,
+    "dislikes_normalized":36.085471307946
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.87023,50.87575,0 ]
+    },
+    "properties": {
+    "key":"Verwood",
+    "population":12338,
+    "dislikes_normalized":35.857979728792
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.39253,55.87197,0 ]
+    },
+    "properties": {
+    "key":"Renfrew",
+    "population":19894,
+    "dislikes_normalized":35.79713043758
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.14002,51.37281,0 ]
+    },
+    "properties": {
+    "key":"Melksham",
+    "population":14692,
+    "dislikes_normalized":35.762889817359
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.85168,54.96154,0 ]
+    },
+    "properties": {
+    "key":"Prudhoe",
+    "population":10669,
+    "dislikes_normalized":35.638759401419
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.43254,55.83173,0 ]
+    },
+    "properties": {
+    "key":"Paisley",
+    "population":73074,
+    "dislikes_normalized":35.498492942585
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.28333,51.50799,0 ]
+    },
+    "properties": {
+    "key":"South Ockendon",
+    "population":18069,
+    "dislikes_normalized":35.389389660954
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.38376,53.09766,0 ]
+    },
+    "properties": {
+    "key":"Alfreton",
+    "population":22550,
+    "dislikes_normalized":35.347125052842
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.0304,50.88067,0 ]
+    },
+    "properties": {
+    "key":"Waterlooville",
+    "population":64350,
+    "dislikes_normalized":35.273384554432
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.50606,51.43092,0 ]
+    },
+    "properties": {
+    "key":"Staines",
+    "population":51040,
+    "dislikes_normalized":35.137024499629
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.52331,51.61101,0 ]
+    },
+    "properties": {
+    "key":"Wickford",
+    "population":32975,
+    "dislikes_normalized":35.106962096546
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.77415,51.56933,0 ]
+    },
+    "properties": {
+    "key":"Marlow",
+    "population":17912,
+    "dislikes_normalized":35.037714982072
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.16103,50.65158,0 ]
+    },
+    "properties": {
+    "key":"Sandown",
+    "population":20155,
+    "dislikes_normalized":34.638326392577
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.30427,51.3624,0 ]
+    },
+    "properties": {
+    "key":"Chessington",
+    "population":19433,
+    "dislikes_normalized":34.525101338403
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.83019,55.73595,0 ]
+    },
+    "properties": {
+    "key":"Carluke",
+    "population":13465,
+    "dislikes_normalized":34.496525405674
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.03225,53.56047,0 ]
+    },
+    "properties": {
+    "key":"Cleethorpes",
+    "population":32017,
+    "dislikes_normalized":34.485245527717
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.14088,51.32002,0 ]
+    },
+    "properties": {
+    "key":"Coulsdon",
+    "population":25500,
+    "dislikes_normalized":34.37576111423
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.67978,50.78206,0 ]
+    },
+    "properties": {
+    "key":"Bognor Regis",
+    "population":65391,
+    "dislikes_normalized":34.275891354983
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.06497,53.42324,0 ]
+    },
+    "properties": {
+    "key":"Wallasey",
+    "population":58794,
+    "dislikes_normalized":34.016099596713
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.73052,52.60831,0 ]
+    },
+    "properties": {
+    "key":"Great Yarmouth",
+    "population":59601,
+    "dislikes_normalized":33.814716272512
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.24247,51.4839,0 ]
+    },
+    "properties": {
+    "key":"Purfleet",
+    "population":12000,
+    "dislikes_normalized":33.430802833234
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.04444,51.70111,0 ]
+    },
+    "properties": {
+    "key":"Pontypool",
+    "population":35686,
+    "dislikes_normalized":33.142715799703
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.93694,52.7593,0 ]
+    },
+    "properties": {
+    "key":"Rugeley",
+    "population":22937,
+    "dislikes_normalized":33.112191433576
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.20792,51.77714,0 ]
+    },
+    "properties": {
+    "key":"Ebbw Vale",
+    "population":18345,
+    "dislikes_normalized":32.872455071269
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.21253,53.16314,0 ]
+    },
+    "properties": {
+    "key":"Congleton",
+    "population":26030,
+    "dislikes_normalized":32.742276709301
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.05999,54.61657,0 ]
+    },
+    "properties": {
+    "key":"Redcar",
+    "population":37203,
+    "dislikes_normalized":32.316428680243
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.01144,51.76148,0 ]
+    },
+    "properties": {
+    "key":"Hoddesdon",
+    "population":35174,
+    "dislikes_normalized":31.70330572372
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.66667,55.13333,0 ]
+    },
+    "properties": {
+    "key":"Coleraine",
+    "population":25681,
+    "dislikes_normalized":31.579795339674
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.30934,54.9981,0 ]
+    },
+    "properties": {
+    "key":"Derry",
+    "population":83652,
+    "dislikes_normalized":31.451859753146
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.03527,54.52337,0 ]
+    },
+    "properties": {
+    "key":"Lisburn",
+    "population":77506,
+    "dislikes_normalized":31.244745516869
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.33649,54.76032,0 ]
+    },
+    "properties": {
+    "key":"Peterlee",
+    "population":29979,
+    "dislikes_normalized":31.148202296777
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.86108,54.06835,0 ]
+    },
+    "properties": {
+    "key":"Morecambe",
+    "population":51644,
+    "dislikes_normalized":31.018471090185
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.68939,52.49637,0 ]
+    },
+    "properties": {
+    "key":"Corby",
+    "population":50029,
+    "dislikes_normalized":30.811699492883
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.75159,52.4752,0 ]
+    },
+    "properties": {
+    "key":"Lowestoft",
+    "population":71479,
+    "dislikes_normalized":30.667874468245
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.92759,52.68075,0 ]
+    },
+    "properties": {
+    "key":"Burntwood",
+    "population":29766,
+    "dislikes_normalized":30.656353581929
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.17342,51.4386,0 ]
+    },
+    "properties": {
+    "key":"Penarth",
+    "population":23437,
+    "dislikes_normalized":30.307146051915
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.22608,55.83116,0 ]
+    },
+    "properties": {
+    "key":"Penicuik",
+    "population":17011,
+    "dislikes_normalized":30.288863993355
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.63393,55.46273,0 ]
+    },
+    "properties": {
+    "key":"Ayr",
+    "population":45513,
+    "dislikes_normalized":30.149161092058
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.16755,51.36829,0 ]
+    },
+    "properties": {
+    "key":"Carshalton",
+    "population":45525,
+    "dislikes_normalized":29.604379579235
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.02469,55.86216,0 ]
+    },
+    "properties": {
+    "key":"Coatbridge",
+    "population":41170,
+    "dislikes_normalized":29.461895951728
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.03262,51.62409,0 ]
+    },
+    "properties": {
+    "key":"Buckhurst Hill",
+    "population":10738,
+    "dislikes_normalized":28.565198814763
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.64295,54.62997,0 ]
+    },
+    "properties": {
+    "key":"Shildon",
+    "population":10299,
+    "dislikes_normalized":28.51480630448
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.15919,51.17423,0 ]
+    },
+    "properties": {
+    "key":"Horley",
+    "population":21232,
+    "dislikes_normalized":28.503737967863
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.42332,53.84587,0 ]
+    },
+    "properties": {
+    "key":"Beverley",
+    "population":31968,
+    "dislikes_normalized":28.403194528465
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.58276,52.34958,0 ]
+    },
+    "properties": {
+    "key":"Kenilworth",
+    "population":22799,
+    "dislikes_normalized":28.389277972189
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.01479,53.39337,0 ]
+    },
+    "properties": {
+    "key":"Birkenhead",
+    "population":81805,
+    "dislikes_normalized":28.359086712685
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.3363,53.14362,0 ]
+    },
+    "properties": {
+    "key":"Skegness",
+    "population":17072,
+    "dislikes_normalized":28.345897700577
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.51585,50.39431,0 ]
+    },
+    "properties": {
+    "key":"Brixham",
+    "population":17846,
+    "dislikes_normalized":28.28435398092
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.21608,50.84286,0 ]
+    },
+    "properties": {
+    "key":"Portslade",
+    "population":20000,
+    "dislikes_normalized":27.844520375245
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.05934,52.58514,0 ]
+    },
+    "properties": {
+    "key":"Willenhall",
+    "population":27500,
+    "dislikes_normalized":27.647862156134
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.86337,55.79629,0 ]
+    },
+    "properties": {
+    "key":"Largs",
+    "population":11126,
+    "dislikes_normalized":27.536941120322
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.43938,51.35908,0 ]
+    },
+    "properties": {
+    "key":"Broadstairs",
+    "population":23283,
+    "dislikes_normalized":27.5048442158
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.01667,53.35,0 ]
+    },
+    "properties": {
+    "key":"Bebington",
+    "population":15768,
+    "dislikes_normalized":27.475160663644
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.70673,51.58198,0 ]
+    },
+    "properties": {
+    "key":"Rochford",
+    "population":16739,
+    "dislikes_normalized":27.457677004178
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.85786,51.44227,0 ]
+    },
+    "properties": {
+    "key":"Clevedon",
+    "population":22413,
+    "dislikes_normalized":27.409866449487
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.58006,53.67978,0 ]
+    },
+    "properties": {
+    "key":"Ossett",
+    "population":21616,
+    "dislikes_normalized":27.343083737361
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.28599,52.03021,0 ]
+    },
+    "properties": {
+    "key":"Henlow",
+    "population":12320,
+    "dislikes_normalized":27.182518582508
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.20685,51.32233,0 ]
+    },
+    "properties": {
+    "key":"Banstead",
+    "population":46280,
+    "dislikes_normalized":27.046871802503
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.70666,55.65333,0 ]
+    },
+    "properties": {
+    "key":"Kilwinning",
+    "population":16000,
+    "dislikes_normalized":27.043171445033
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.2125,54.68611,0 ]
+    },
+    "properties": {
+    "key":"Hartlepool",
+    "population":86713,
+    "dislikes_normalized":26.895100101558
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.53715,50.11861,0 ]
+    },
+    "properties": {
+    "key":"Penzance",
+    "population":20812,
+    "dislikes_normalized":26.72217963954
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.06344,50.84654,0 ]
+    },
+    "properties": {
+    "key":"Cosham",
+    "population":10226,
+    "dislikes_normalized":26.647635034845
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.19192,54.08306,0 ]
+    },
+    "properties": {
+    "key":"Bridlington",
+    "population":35057,
+    "dislikes_normalized":26.646110831784
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.90858,54.65983,0 ]
+    },
+    "properties": {
+    "key":"Newtownabbey",
+    "population":63860,
+    "dislikes_normalized":26.581976460065
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.98025,55.86602,0 ]
+    },
+    "properties": {
+    "key":"Airdrie",
+    "population":35440,
+    "dislikes_normalized":26.54009543169
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.01008,53.64581,0 ]
+    },
+    "properties": {
+    "key":"Southport",
+    "population":93044,
+    "dislikes_normalized":26.328893133639
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.91667,55.76667,0 ]
+    },
+    "properties": {
+    "key":"Wishaw",
+    "population":27627,
+    "dislikes_normalized":26.289180747857
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.5822,53.28436,0 ]
+    },
+    "properties": {
+    "key":"Abergele",
+    "population":17769,
+    "dislikes_normalized":26.063715234219
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.70362,51.47903,0 ]
+    },
+    "properties": {
+    "key":"Porthcawl",
+    "population":15813,
+    "dislikes_normalized":25.976758486329
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.06858,51.41709,0 ]
+    },
+    "properties": {
+    "key":"Chislehurst",
+    "population":20000,
+    "dislikes_normalized":25.714811180582
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.60229,54.6988,0 ]
+    },
+    "properties": {
+    "key":"Spennymoor",
+    "population":17655,
+    "dislikes_normalized":25.682070386485
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.54078,50.81137,0 ]
+    },
+    "properties": {
+    "key":"Littlehampton",
+    "population":58714,
+    "dislikes_normalized":25.547725594732
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.11344,51.2093,0 ]
+    },
+    "properties": {
+    "key":"Ilfracombe",
+    "population":10486,
+    "dislikes_normalized":25.234919750276
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.2007,53.70336,0 ]
+    },
+    "properties": {
+    "key":"Bacup",
+    "population":13047,
+    "dislikes_normalized":25.140638518769
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.01085,53.92527,0 ]
+    },
+    "properties": {
+    "key":"Fleetwood",
+    "population":27077,
+    "dislikes_normalized":24.58733271578
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.37389,51.54028,0 ]
+    },
+    "properties": {
+    "key":"Llantrisant",
+    "population":11001,
+    "dislikes_normalized":24.29987013851
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.40432,51.22322,0 ]
+    },
+    "properties": {
+    "key":"Deal",
+    "population":29248,
+    "dislikes_normalized":24.011716038892
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.44918,51.71438,0 ]
+    },
+    "properties": {
+    "key":"Aberdare",
+    "population":32756,
+    "dislikes_normalized":23.895658474262
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.41963,51.62867,0 ]
+    },
+    "properties": {
+    "key":"Billericay",
+    "population":34467,
+    "dislikes_normalized":23.870445620038
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.6658,50.75601,0 ]
+    },
+    "properties": {
+    "key":"New Milton",
+    "population":23753,
+    "dislikes_normalized":23.818986247778
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.01923,51.74712,0 ]
+    },
+    "properties": {
+    "key":"Broxbourne",
+    "population":13298,
+    "dislikes_normalized":23.796715281738
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.2838,51.39979,0 ]
+    },
+    "properties": {
+    "key":"Barry",
+    "population":51681,
+    "dislikes_normalized":23.715650732495
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.66134,53.79538,0 ]
+    },
+    "properties": {
+    "key":"Pudsey",
+    "population":33109,
+    "dislikes_normalized":23.578675437315
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.78666,55.42273,0 ]
+    },
+    "properties": {
+    "key":"Hawick",
+    "population":14053,
+    "dislikes_normalized":23.524332086827
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.25639,53.70778,0 ]
+    },
+    "properties": {
+    "key":"Knottingley",
+    "population":13804,
+    "dislikes_normalized":23.280119462787
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.02207,53.10434,0 ]
+    },
+    "properties": {
+    "key":"Leek",
+    "population":19186,
+    "dislikes_normalized":23.272062015515
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.71294,53.72405,0 ]
+    },
+    "properties": {
+    "key":"Cleckheaton",
+    "population":27393,
+    "dislikes_normalized":23.111426710697
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.08333,52.5,0 ]
+    },
+    "properties": {
+    "key":"Dudley",
+    "population":199059,
+    "dislikes_normalized":23.044434612657
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.50856,55.12708,0 ]
+    },
+    "properties": {
+    "key":"Blyth",
+    "population":36355,
+    "dislikes_normalized":22.770105138051
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.79803,54.59196,0 ]
+    },
+    "properties": {
+    "key":"Dundonald",
+    "population":13985,
+    "dislikes_normalized":22.618332234825
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.3,54.6,0 ]
+    },
+    "properties": {
+    "key":"Omagh",
+    "population":21056,
+    "dislikes_normalized":22.495477853103
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.46494,53.69803,0 ]
+    },
+    "properties": {
+    "key":"Darwen",
+    "population":32566,
+    "dislikes_normalized":22.479592721368
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.46909,52.4791,0 ]
+    },
+    "properties": {
+    "key":"Bedworth",
+    "population":29981,
+    "dislikes_normalized":22.455305598488
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.13016,52.55804,0 ]
+    },
+    "properties": {
+    "key":"Whittlesey",
+    "population":12719,
+    "dislikes_normalized":22.317328756047
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.17669,55.76412,0 ]
+    },
+    "properties": {
+    "key":"East Kilbride",
+    "population":74231,
+    "dislikes_normalized":22.31325974388
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.60983,51.55269,0 ]
+    },
+    "properties": {
+    "key":"Hadleigh",
+    "population":18300,
+    "dislikes_normalized":21.797365253247
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.75757,54.66579,0 ]
+    },
+    "properties": {
+    "key":"Penrith",
+    "population":14793,
+    "dislikes_normalized":21.252471219313
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.01667,51.36667,0 ]
+    },
+    "properties": {
+    "key":"West Wickham",
+    "population":14276,
+    "dislikes_normalized":21.076085266773
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.47507,53.30221,0 ]
+    },
+    "properties": {
+    "key":"Dronfield",
+    "population":20942,
+    "dislikes_normalized":20.704610883138
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.13269,51.32796,0 ]
+    },
+    "properties": {
+    "key":"Halstead",
+    "population":11299,
+    "dislikes_normalized":20.524644007658
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.2,51.35,0 ]
+    },
+    "properties": {
+    "key":"Sutton",
+    "population":187600,
+    "dislikes_normalized":20.461915664217
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.30212,51.3969,0 ]
+    },
+    "properties": {
+    "key":"Longfield",
+    "population":16808,
+    "dislikes_normalized":20.41304491917
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.28442,53.70076,0 ]
+    },
+    "properties": {
+    "key":"Rawtenstall",
+    "population":22114,
+    "dislikes_normalized":20.383475457921
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.949,53.44325,0 ]
+    },
+    "properties": {
+    "key":"Glossop",
+    "population":33243,
+    "dislikes_normalized":20.170980942536
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.34575,54.83903,0 ]
+    },
+    "properties": {
+    "key":"Seaham",
+    "population":21170,
+    "dislikes_normalized":20.035582930515
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.13333,53,0 ]
+    },
+    "properties": {
+    "key":"Arnold",
+    "population":37873,
+    "dislikes_normalized":19.786081161354
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.98333,50.78333,0 ]
+    },
+    "properties": {
+    "key":"Wimborne Minster",
+    "population":14884,
+    "dislikes_normalized":19.303311298979
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.16851,53.85713,0 ]
+    },
+    "properties": {
+    "key":"Colne",
+    "population":20118,
+    "dislikes_normalized":19.263636162137
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.68166,53.46723,0 ]
+    },
+    "properties": {
+    "key":"Haydock",
+    "population":17333,
+    "dislikes_normalized":19.262288542343
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.28437,51.94194,0 ]
+    },
+    "properties": {
+    "key":"Harwich",
+    "population":20578,
+    "dislikes_normalized":19.176642005061
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.78785,53.84711,0 ]
+    },
+    "properties": {
+    "key":"Baildon",
+    "population":15710,
+    "dislikes_normalized":18.958123662945
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.63789,50.8312,0 ]
+    },
+    "properties": {
+    "key":"Barnham",
+    "population":11881,
+    "dislikes_normalized":18.653389764282
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.48591,51.28567,0 ]
+    },
+    "properties": {
+    "key":"Midsomer Norton",
+    "population":10458,
+    "dislikes_normalized":18.629280232501
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.20582,51.23736,0 ]
+    },
+    "properties": {
+    "key":"Reigate",
+    "population":52123,
+    "dislikes_normalized":18.609344605103
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.05606,54.53478,0 ]
+    },
+    "properties": {
+    "key":"Guisborough",
+    "population":17569,
+    "dislikes_normalized":18.469693423895
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.55618,51.60885,0 ]
+    },
+    "properties": {
+    "key":"Chalfont Saint Peter",
+    "population":20059,
+    "dislikes_normalized":18.205262855393
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.57292,50.85519,0 ]
+    },
+    "properties": {
+    "key":"Hastings",
+    "population":89100,
+    "dislikes_normalized":18.145750545589
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.36693,51.36969,0 ]
+    },
+    "properties": {
+    "key":"Esher",
+    "population":52392,
+    "dislikes_normalized":17.889527101152
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.01844,57.68744,0 ]
+    },
+    "properties": {
+    "key":"Fraserburgh",
+    "population":12249,
+    "dislikes_normalized":17.855600668415
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.81789,55.96157,0 ]
+    },
+    "properties": {
+    "key":"Gourock",
+    "population":11390,
+    "dislikes_normalized":17.327285460396
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.03026,51.7002,0 ]
+    },
+    "properties": {
+    "key":"Cheshunt",
+    "population":57374,
+    "dislikes_normalized":17.056294527276
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.46916,54.82373,0 ]
+    },
+    "properties": {
+    "key":"Strabane",
+    "population":14198,
+    "dislikes_normalized":16.953217740524
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.48632,51.4107,0 ]
+    },
+    "properties": {
+    "key":"Llantwit Major",
+    "population":13514,
+    "dislikes_normalized":16.865307030723
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.438,56.03689,0 ]
+    },
+    "properties": {
+    "key":"Rosyth",
+    "population":12003,
+    "dislikes_normalized":16.795490708561
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.18705,53.91711,0 ]
+    },
+    "properties": {
+    "key":"Barnoldswick",
+    "population":11101,
+    "dislikes_normalized":16.750062735239
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.59319,55.13061,0 ]
+    },
+    "properties": {
+    "key":"Bedlington",
+    "population":16831,
+    "dislikes_normalized":16.732239802218
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.30649,53.09617,0 ]
+    },
+    "properties": {
+    "key":"Alsager",
+    "population":14494,
+    "dislikes_normalized":16.466611482294
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.73471,51.99334,0 ]
+    },
+    "properties": {
+    "key":"Bletchley",
+    "population":50193,
+    "dislikes_normalized":16.284129059959
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.40865,53.78512,0 ]
+    },
+    "properties": {
+    "key":"Great Harwood",
+    "population":11467,
+    "dislikes_normalized":16.187749040436
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.59651,53.47693,0 ]
+    },
+    "properties": {
+    "key":"Golborne",
+    "population":24021,
+    "dislikes_normalized":16.069586068483
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.49472,52.00338,0 ]
+    },
+    "properties": {
+    "key":"Flitwick",
+    "population":12983,
+    "dislikes_normalized":15.787565032723
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.90982,53.25741,0 ]
+    },
+    "properties": {
+    "key":"Buxton",
+    "population":21300,
+    "dislikes_normalized":15.714586231533
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.22219,53.61239,0 ]
+    },
+    "properties": {
+    "key":"Immingham",
+    "population":11337,
+    "dislikes_normalized":15.442806843833
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.81667,54.85,0 ]
+    },
+    "properties": {
+    "key":"Larne",
+    "population":18421,
+    "dislikes_normalized":15.374039074192
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.99406,50.75717,0 ]
+    },
+    "properties": {
+    "key":"Broadstone",
+    "population":10256,
+    "dislikes_normalized":15.012773853711
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.75847,51.43239,0 ]
+    },
+    "properties": {
+    "key":"Nailsea",
+    "population":16537,
+    "dislikes_normalized":14.96429441702
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.81898,51.63106,0 ]
+    },
+    "properties": {
+    "key":"Briton Ferry",
+    "population":35179,
+    "dislikes_normalized":14.933954212905
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.74544,51.31667,0 ]
+    },
+    "properties": {
+    "key":"Frimley",
+    "population":12739,
+    "dislikes_normalized":14.883369923945
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.31767,53.09062,0 ]
+    },
+    "properties": {
+    "key":"Pinxton",
+    "population":14357,
+    "dislikes_normalized":14.719855873493
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.31629,52.67654,0 ]
+    },
+    "properties": {
+    "key":"Market Deeping",
+    "population":13891,
+    "dislikes_normalized":14.593749193009
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.31683,53.64789,0 ]
+    },
+    "properties": {
+    "key":"Ramsbottom",
+    "population":17738,
+    "dislikes_normalized":14.416447388489
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.24679,51.77251,0 ]
+    },
+    "properties": {
+    "key":"Tredegar",
+    "population":14966,
+    "dislikes_normalized":14.319751465574
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.11822,53.45678,0 ]
+    },
+    "properties": {
+    "key":"Denton",
+    "population":27464,
+    "dislikes_normalized":14.28056433299
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.51404,51.65472,0 ]
+    },
+    "properties": {
+    "key":"Chorleywood",
+    "population":11917,
+    "dislikes_normalized":14.067123845766
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.09701,53.71434,0 ]
+    },
+    "properties": {
+    "key":"Todmorden",
+    "population":11812,
+    "dislikes_normalized":13.897479809351
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.26256,51.13321,0 ]
+    },
+    "properties": {
+    "key":"Royal Tunbridge Wells",
+    "population":61075,
+    "dislikes_normalized":13.889592615364
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.32455,53.56178,0 ]
+    },
+    "properties": {
+    "key":"Radcliffe",
+    "population":34239,
+    "dislikes_normalized":13.736600573259
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.2762,51.50901,0 ]
+    },
+    "properties": {
+    "key":"Acton",
+    "population":53689,
+    "dislikes_normalized":13.717931176029
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.72648,56.00614,0 ]
+    },
+    "properties": {
+    "key":"Helensburgh",
+    "population":14108,
+    "dislikes_normalized":13.568386602835
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.91715,52.60549,0 ]
+    },
+    "properties": {
+    "key":"Aldridge",
+    "population":16008,
+    "dislikes_normalized":13.155879316275
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.87189,53.78244,0 ]
+    },
+    "properties": {
+    "key":"Kirkham",
+    "population":10603,
+    "dislikes_normalized":13.140140773872
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.06999,53.55838,0 ]
+    },
+    "properties": {
+    "key":"Formby",
+    "population":24225,
+    "dislikes_normalized":13.139850914597
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.9945,52.51868,0 ]
+    },
+    "properties": {
+    "key":"West Bromwich",
+    "population":135618,
+    "dislikes_normalized":13.135627056016
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.06667,52.68333,0 ]
+    },
+    "properties": {
+    "key":"Syston",
+    "population":11508,
+    "dislikes_normalized":13.120967501786
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.78588,55.63616,0 ]
+    },
+    "properties": {
+    "key":"Saltcoats",
+    "population":10949,
+    "dislikes_normalized":12.993740699073
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.21336,53.20333,0 ]
+    },
+    "properties": {
+    "key":"Shirebrook",
+    "population":10644,
+    "dislikes_normalized":12.911791227919
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.44885,51.65896,0 ]
+    },
+    "properties": {
+    "key":"Rhondda",
+    "population":59450,
+    "dislikes_normalized":12.821516173902
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.3511,51.96375,0 ]
+    },
+    "properties": {
+    "key":"Felixstowe",
+    "population":29349,
+    "dislikes_normalized":12.731744440938
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.42559,55.01788,0 ]
+    },
+    "properties": {
+    "key":"Tynemouth",
+    "population":17436,
+    "dislikes_normalized":12.496400712764
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.00421,51.687,0 ]
+    },
+    "properties": {
+    "key":"Waltham Abbey",
+    "population":18069,
+    "dislikes_normalized":12.27342240874
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.7053,56.50263,0 ]
+    },
+    "properties": {
+    "key":"Carnoustie",
+    "population":10500,
+    "dislikes_normalized":12.191286104279
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.9626,50.60923,0 ]
+    },
+    "properties": {
+    "key":"Swanage",
+    "population":11344,
+    "dislikes_normalized":12.174908666725
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.99051,55.94685,0 ]
+    },
+    "properties": {
+    "key":"Cumbernauld",
+    "population":49392,
+    "dislikes_normalized":12.155295825044
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.94117,53.51619,0 ]
+    },
+    "properties": {
+    "key":"Maghull",
+    "population":22225,
+    "dislikes_normalized":11.934416883911
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.79806,57.50584,0 ]
+    },
+    "properties": {
+    "key":"Peterhead",
+    "population":17627,
+    "dislikes_normalized":11.895773668355
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.33339,55.77334,0 ]
+    },
+    "properties": {
+    "key":"Newton Mearns",
+    "population":23808,
+    "dislikes_normalized":11.687947216001
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.42323,53.44253,0 ]
+    },
+    "properties": {
+    "key":"Irlam",
+    "population":19442,
+    "dislikes_normalized":11.60874403539
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.71232,53.87561,0 ]
+    },
+    "properties": {
+    "key":"Guiseley",
+    "population":21000,
+    "dislikes_normalized":11.569277046254
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.50044,52.11599,0 ]
+    },
+    "properties": {
+    "key":"Kempston",
+    "population":19873,
+    "dislikes_normalized":11.269275830821
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.3,53,0 ]
+    },
+    "properties": {
+    "key":"Eastwood",
+    "population":18612,
+    "dislikes_normalized":10.939386166465
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.35,52.61667,0 ]
+    },
+    "properties": {
+    "key":"Ryton",
+    "population":16093,
+    "dislikes_normalized":10.821900457857
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.17087,51.87739,0 ]
+    },
+    "properties": {
+    "key":"Churchdown",
+    "population":13287,
+    "dislikes_normalized":10.414734721192
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.02578,53.18478,0 ]
+    },
+    "properties": {
+    "key":"Hawarden",
+    "population":25513,
+    "dislikes_normalized":10.338256564498
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.6895,55.93464,0 ]
+    },
+    "properties": {
+    "key":"Port Glasgow",
+    "population":15543,
+    "dislikes_normalized":10.290678690052
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.09648,53.32733,0 ]
+    },
+    "properties": {
+    "key":"Heswall",
+    "population":30065,
+    "dislikes_normalized":10.280196366217
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.40162,50.86004,0 ]
+    },
+    "properties": {
+    "key":"Hythe",
+    "population":20036,
+    "dislikes_normalized":10.174448773166
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.16539,53.35801,0 ]
+    },
+    "properties": {
+    "key":"Bramhall",
+    "population":25506,
+    "dislikes_normalized":10.133061417679
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.93333,52.63333,0 ]
+    },
+    "properties": {
+    "key":"Brownhills",
+    "population":20308,
+    "dislikes_normalized":10.015303902675
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.1897,53.3761,0 ]
+    },
+    "properties": {
+    "key":"Cheadle Hulme",
+    "population":28952,
+    "dislikes_normalized":9.8162294945467
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.03433,51.31329,0 ]
+    },
+    "properties": {
+    "key":"Biggin Hill",
+    "population":13535,
+    "dislikes_normalized":9.7220076131752
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.11667,53.35,0 ]
+    },
+    "properties": {
+    "key":"Poynton",
+    "population":14351,
+    "dislikes_normalized":9.6340070835917
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.35,53.26667,0 ]
+    },
+    "properties": {
+    "key":"Staveley",
+    "population":25719,
+    "dislikes_normalized":9.4703139552652
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.32382,53.70326,0 ]
+    },
+    "properties": {
+    "key":"Haslingden",
+    "population":15204,
+    "dislikes_normalized":9.4495526965005
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.61667,55.48333,0 ]
+    },
+    "properties": {
+    "key":"Prestwick",
+    "population":15401,
+    "dislikes_normalized":9.3797352613765
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.2494,51.34948,0 ]
+    },
+    "properties": {
+    "key":"Ewell",
+    "population":39994,
+    "dislikes_normalized":8.9693569731775
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.23294,51.59462,0 ]
+    },
+    "properties": {
+    "key":"Harold Wood",
+    "population":12443,
+    "dislikes_normalized":8.6341477540992
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.16568,53.50484,0 ]
+    },
+    "properties": {
+    "key":"Failsworth",
+    "population":20555,
+    "dislikes_normalized":8.6123451286928
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.33333,53.48333,0 ]
+    },
+    "properties": {
+    "key":"Eccles",
+    "population":37275,
+    "dislikes_normalized":8.5338331389922
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.1051,55.87329,0 ]
+    },
+    "properties": {
+    "key":"Bonnyrigg",
+    "population":14694,
+    "dislikes_normalized":7.8441197175366
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.39379,51.53813,0 ]
+    },
+    "properties": {
+    "key":"Chipping Sodbury",
+    "population":36108,
+    "dislikes_normalized":7.6591293718894
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.14866,51.44162,0 ]
+    },
+    "properties": {
+    "key":"Bexley",
+    "population":228000,
+    "dislikes_normalized":7.5594869855387
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.01667,53.46667,0 ]
+    },
+    "properties": {
+    "key":"Bootle",
+    "population":57791,
+    "dislikes_normalized":7.0695474491789
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.59877,53.74013,0 ]
+    },
+    "properties": {
+    "key":"Morley",
+    "population":57385,
+    "dislikes_normalized":6.8749447109712
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.10652,51.46593,0 ]
+    },
+    "properties": {
+    "key":"Brixton",
+    "population":66300,
+    "dislikes_normalized":6.6481942827354
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.46754,53.51393,0 ]
+    },
+    "properties": {
+    "key":"Tyldesley",
+    "population":35932,
+    "dislikes_normalized":6.49911983075
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.33279,55.91536,0 ]
+    },
+    "properties": {
+    "key":"Bearsden",
+    "population":27839,
+    "dislikes_normalized":6.387298555123
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.52464,53.54899,0 ]
+    },
+    "properties": {
+    "key":"Westhoughton",
+    "population":22994,
+    "dislikes_normalized":6.1181068049147
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.10304,51.53622,0 ]
+    },
+    "properties": {
+    "key":"Islington",
+    "population":319143,
+    "dislikes_normalized":4.1949182766473
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.84536,53.36797,0 ]
+    },
+    "properties": {
+    "key":"High Peak",
+    "population":92600,
+    "dislikes_normalized":3.8149265232936
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.23777,53.08691,0 ]
+    },
+    "properties": {
+    "key":"Kidsgrove",
+    "population":29480,
+    "dislikes_normalized":3.7856710311882
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.27136,52.89855,0 ]
+    },
+    "properties": {
+    "key":"Long Eaton",
+    "population":47898,
+    "dislikes_normalized":3.6293347853368
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.50833,51.45278,0 ]
+    },
+    "properties": {
+    "key":"Kingswood",
+    "population":64793,
+    "dislikes_normalized":3.4542135362949
+    }
+  }
+]
+}
