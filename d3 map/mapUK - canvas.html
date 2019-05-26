@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<style>
+
+
+.terrain{
+    fill:#ccddcc;
+}
+
+.place-label {
+    fill: #444;
+}
+
+.city{
+    fill: #000000;
+}
+
+
+text {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 5px;
+    pointer-events: none;
+}
+</style>
+<body>
+<script src="//d3js.org/d3.v4.min.js" charset="utf-8"></script>
+<script>
+
+    var width = 960,
+        height = 1500;
+
+    var projection = d3.geoAlbers()
+        .center([0, 55.4])
+        .rotate([4.4, 0])
+        .parallels([50, 60])
+        .scale(6000)
+        .translate([width / 2, height / 2]);
+
+
+    var path = d3.geoPath()
+        .projection(projection)
+        .pointRadius(1);
+
+    var svg = d3.select("body").append("svg")
+        .attr("width", width)
+        .attr("height", height);
+
+
+
+    d3.json("terrain.json", function(error, uk) {
+        if (error) return console.error(error);
+        console.log(uk);
+        svg.selectAll("path")
+            .data(uk.features)
+            .enter()
+            .append("path")
+            .attr("d",path)
+            .attr("class", "terrain");
+    });
+
+    function sleep (time) {
+        return new Promise((resolve) => setTimeout(resolve, time));
+    }
+
+    sleep(500).then(()=>{
+
+    d3.json("map.json", function(error, places ) {
+        if (error) return console.error(error);
+
+        svg.append("path")
+            .datum(places)
+            .attr("d", path)
+            .attr("class", "city");
+
+        console.log(places);
+
+        var place= svg.selectAll(".place-label")
+            .data(places.features)
+            .enter().append("text")
+            .attr("class", "place-label")
+            .attr("transform", function(d) { return "translate(" + projection(d.geometry.coordinates) + ")"; })
+            .attr("x", function(d) { return d.geometry.coordinates[0] > -1 ? 6 : -6; })
+            .attr("dy", ".35em")
+            .style("text-anchor", function(d) { return d.geometry.coordinates[0] > -1 ? "start" : "end"; })
+            .text(function(d) { return d.properties.key; });
+
+
+    });
+
+    })
+
+</script>
