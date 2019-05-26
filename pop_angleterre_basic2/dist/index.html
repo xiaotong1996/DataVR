@@ -5,15 +5,17 @@
     <meta charset="utf-8">
     <script src="bundle.js"></script>
     <style>
-      .bar1 {}
-      .bar2 {}
     </style>
 </head>
 
 <body>
-    <a-scene stretchable background="color: white" fog="type: linear; color: #AAA">
-        <a-box class="bar bar1"></a-box>
-        <a-box class="bar bar2"></a-box>
+  <a-scene stretchable background="color: white" fog="type: linear; color: #AAA">
+        <a-entity class="set1">
+          <a-box class="bar"></a-box>
+        </a-entity>
+        <a-entity class="set2">
+          <a-box class="bar"></a-box>
+        </a-entity>
         <a-entity id="rig" wasd-controls position="11.3 15 9.5" rotation="-90 0 0">
             <a-entity id="camera" camera look-controls position="0 0.18 0"></a-entity>
             <a-entity id="rightHand" sphere-collider="objects: a-box" hand-controls="right" super-hands

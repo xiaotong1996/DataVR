@@ -90,13 +90,14 @@ document.addEventListener("DOMContentLoaded", function () {
         console.log("fini calculs");
         // Lier les objets a-frame et les données :
         var u = d3.select('a-scene') // sélection de la scène a-frame
+            .select('a-entity.set1') // séléction de la a-entity correspondante au bon set
             .selectAll('a-box.bar') // sélection des cubes
             .data(data[0]) // qu'on lie aux données
             
         // Mise à jour des objets
         u.enter() // pour toutes les nouvelles données
             .append('a-box') // créer un cube s'il n'y en a pas assez
-            .classed('bar bar1', true) // lui donner la classe css "bar"
+            .classed('bar', true) // lui donner la classe css "bar"
         // on fait correspondre les champs des données à des paramètres visibles
             .attr("height", function (d) { // hauteur du cube -> population
                 return population_scale(d.population);
@@ -125,7 +126,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
     //d3.json('data/EN_wealth.json').then(function (data2) {
         var population_extent_bis = d3.extent(data[1], function (d) {
-            return d.pop05;
+            return d.GCP_MER05;
         });
     
         var longitude_extent_bis = d3.extent(data[1], function (d) {
@@ -151,16 +152,17 @@ document.addEventListener("DOMContentLoaded", function () {
             .range([30, 0]);
 
         var v = d3.select('a-scene') // sélection de la scène a-frame
-            .selectAll('a-box.bar2') // sélection des cubes
+            .select('a-entity.set2') 
+            .selectAll('a-box.bar') // sélection des cubes
             .data(data[1]) // qu'on lie aux données
 
         // Mise à jour des objets
         v.enter() // pour toutes les nouvelles données
             .append('a-box') // créer un cube s'il n'y en a pas assez
-            .classed('bar bar2', true) // lui donner la classe css "bar"
+            .classed('bar', true) // lui donner la classe css "bar"
         // on fait correspondre les champs des données à des paramètres visibles
-            .attr("height", function (d) { // hauteur du cube -> population
-                return population_scale_bis(d.population);
+            .attr("height", function (d) { // hauteur du cube -> GCP en 2005
+                return population_scale_bis(d.GCP_MER05);
             })
             .attr("position", function (d) {
                 
