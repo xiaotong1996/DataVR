@@ -166,7 +166,7 @@ document.addEventListener("DOMContentLoaded", function () {
             })
             .attr("position", function (d) {
                 
-                y = population_scale_bis(d.population) / 2; // position y -> population / 2
+                y = population_scale_bis(d.GCP_MER05) / 2; // position y -> GCP / 2
                 x = longitude_scale_bis(d.longitude); // position x -> latitude
                 z = latitude_scale_bis(d.latitude); // position z -> longitude
                 // ici la projection est très simple : x -> latitude, z -> longitude
