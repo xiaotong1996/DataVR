@@ -1,7 +1,6 @@
 require('aframe');
 require('aframe-teleport-controls');
 require('./world-scale')
-require('aframe-geojson-component')
 const d3 = require('d3');
 
 AFRAME.registerComponent('pop-angleterre', {
