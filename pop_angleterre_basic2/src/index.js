@@ -41,7 +41,7 @@ AFRAME.registerComponent('pop-angleterre', {
                 .range([0, 10]);
             var longitude_scale = d3.scaleLinear()
                 .domain([longitude_extent[0], longitude_extent[1]])
-                .range([20, 0]);
+                .range([0, 20]);
             var latitude_scale = d3.scaleLinear()
                 .domain([latitude_extent[0], latitude_extent[1]])
                 .range([30, 0]);
@@ -84,7 +84,7 @@ AFRAME.registerComponent('pop-angleterre', {
             //});
 
             //d3.json('data/EN_wealth.json').then(function (data2) {
-            var population_extent_bis = d3.extent(data[1], function (d) {
+            var wealth_extent = d3.extent(data[1], function (d) {
                 return d.GCP_MER05;
             });
 
@@ -100,15 +100,9 @@ AFRAME.registerComponent('pop-angleterre', {
                 }
             });
 
-            var population_scale_bis = d3.scaleLinear()
-                .domain([0, population_extent_bis[1]])
+            var wealth_scale = d3.scaleLinear()
+                .domain([0, wealth_extent[1]])
                 .range([0, 10]);
-            var longitude_scale_bis = d3.scaleLinear()
-                .domain([longitude_extent_bis[0], longitude_extent_bis[1]])
-                .range([20, 0]);
-            var latitude_scale_bis = d3.scaleLinear()
-                .domain([latitude_extent_bis[0], latitude_extent_bis[1]])
-                .range([30, 0]);
 
             var v = d3.select('a-scene') // sélection de la scène a-frame
                 .select('a-entity.set2')
@@ -121,22 +115,23 @@ AFRAME.registerComponent('pop-angleterre', {
                 .classed('bar', true) // lui donner la classe css "bar"
                 // on fait correspondre les champs des données à des paramètres visibles
                 .attr("height", function (d) { // hauteur du cube -> GCP en 2005
-                    return population_scale_bis(d.GCP_MER05);
+                    return wealth_scale(d.GCP_MER05);
                 })
                 .attr("position", function (d) {
 
-                    y = population_scale_bis(d.GCP_MER05) / 2; // position y -> GCP / 2
-                    x = longitude_scale_bis(d.longitude); // position x -> latitude
-                    z = latitude_scale_bis(d.latitude); // position z -> longitude
+                    y = wealth_scale(d.GCP_MER05) / 2; // position y -> GCP / 2
+                    x = longitude_scale(d.longitude); // position x -> latitude
+                    z = latitude_scale(d.latitude); // position z -> longitude
                     // ici la projection est très simple : x -> latitude, z -> longitude
                     // c'est une projection cylindrique (?), très déformée aux pôles
                     // mais vu qu'on est sur une petite échelle, la déformation devrait être négligeable
                     return x + " " + y + " " + z;
                 })
-                .attr("color", function () {
-                    return "#FF0000"
-                })
-                .attr("scale", "0.3 1 0.3")
+                //.attr("color", function () {
+                //    return "#FF0000"
+                //})
+                .attr("material", "color: #F00; opacity: 0.3; transparent: true")
+                .attr("scale", "2.2 1 3.9")
 
             // suppression des objets en trop
             v.exit() // pour tous les objets en trop
