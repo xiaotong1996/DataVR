@@ -75,6 +75,14 @@ AFRAME.registerComponent('pop-angleterre', {
                     return "#0000FF" //"#CFD" + (Math.floor(Math.random() * 500) + 200)
                 })
                 .attr("scale", "0.3 1 0.3")
+                .on("mouseenter", function (d) {
+                    document.getElementById("cityText").setAttribute("text", "value", d.key);
+                    document.getElementById("populationText").setAttribute("text", "value", d.population);
+                })
+                .on("mouseleave", function(d) {
+                    document.getElementById("cityText").setAttribute("text", "value", "");
+                    document.getElementById("populationText").setAttribute("text", "value", "");
+                });
 
             // suppression des objets en trop
             u.exit() // pour tous les objets en trop
