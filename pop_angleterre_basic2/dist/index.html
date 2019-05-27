@@ -14,13 +14,25 @@
         <a-box></a-box>
         <a-entity id="rig" wasd-controls position="11.3 15 9.5" rotation="-90 0 0">
             <a-entity id="camera" camera look-controls
-                world-scale="rightHand: #rightHand; leftHand: #leftHand; world: #world" position="0 0.18 0"></a-entity>
-            <a-entity id="rightHand" hand-controls="right" teleport-controls="cameraRig: #rig; teleportOrigin: #camera">
+                world-scale="rightHand: #rightHand; leftHand: #leftHand; world: #world" position="0 0.18 0">
+                <a-cursor></a-cursor>
+                <a-entity id="hud" position="0 0 -1">
+                    <a-entity id="cityText" text=""></a-entity>
+                    <a-entity id="populationText" text="" position="1 0 0"></a-entity>
+                </a-entity>
             </a-entity>
-            <a-entity id="leftHand" hand-controls="left"></a-entity>
+
+            <a-entity>
+                <a-entity id="rightHand" hand-controls="right"
+                    teleport-controls="cameraRig: #rig; teleportOrigin: #camera">
+                </a-entity>
+                <a-entity id="leftHand" hand-controls="left"></a-entity>
+            </a-entity> <!-- rig -->
         </a-entity>
         <!-- <a-plane color="#aaa" position="10 0 15" height="30" width="20" rotation="-90 0 0"></a-plane> -->
-        <a-entity material="shader: flat; src: #mapCanvas" geometry="primitive: plane; width: 10; height: 10" ukmap="canvas: #mapCanvas">
+        <a-entity material="shader: flat; src: #mapCanvas" geometry="primitive: plane; width: 10; height: 10"
+            ukmap="canvas: #mapCanvas"></a-entity>
+
     </a-scene>
 </body>
 

@@ -1,7 +1,6 @@
 require('aframe');
 require('aframe-teleport-controls');
 require('./world-scale')
-require('aframe-geojson-component')
 const d3 = require('d3');
 
 AFRAME.registerComponent('pop-angleterre', {
@@ -69,6 +68,14 @@ AFRAME.registerComponent('pop-angleterre', {
                     return "#CFD" + (Math.floor(Math.random() * 500) + 200)
                 })
                 .attr("scale", "0.3 1 0.3")
+                .on("mouseenter", function (d) {
+                    document.getElementById("cityText").setAttribute("text", "value", d.key);
+                    document.getElementById("populationText").setAttribute("text", "value", d.population);
+                })
+                .on("mouseleave", function(d) {
+                    document.getElementById("cityText").setAttribute("text", "value", "");
+                    document.getElementById("populationText").setAttribute("text", "value", "");
+                });
 
             // suppression des objets en trop
             u.exit() // pour tous les objets en trop
