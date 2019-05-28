@@ -9,15 +9,15 @@
 <body>
     <a-scene pop-angleterre stats debug-gui background="color: black" fog="type: linear; color: #AAA">
         <a-entity class="set1">
-            <a-box class="bar"></a-box>
-          </a-entity>
-          <a-entity class="set2">
-            <a-box class="bar"></a-box>
-  </a-entity>
+            <a-box class="bar1"></a-box>
+        </a-entity>
+        <a-entity class="set2" position="0 0 0">
+            <a-box class="bar2"></a-box>
+        </a-entity>
         <a-entity id="rig" wasd-controls position="11.3 15 9.5" rotation="-90 0 0">
             <a-entity id="camera" camera look-controls
                 world-scale="rightHand: #rightHand; leftHand: #leftHand; world: #world" position="0 0.18 0">
-                <a-cursor></a-cursor>
+                <a-cursor raycaster="objects: .bar1"></a-cursor>
                 <a-entity id="hud" position="0 0 -1">
                     <a-entity id="cityText" text=""></a-entity>
                     <a-entity id="populationText" text="" position="1 0 0"></a-entity>
@@ -31,13 +31,6 @@
                 <a-entity id="leftHand" hand-controls="left"></a-entity>
             </a-entity> <!-- rig -->
         </a-entity>
-<<<<<<< HEAD
-=======
-        <!-- <a-plane color="#aaa" position="10 0 15" height="30" width="20" rotation="-90 0 0"></a-plane> -->
-        <a-entity material="shader: flat; src: #mapCanvas" geometry="primitive: plane; width: 10; height: 10"
-            ukmap="canvas: #mapCanvas"></a-entity>
-
->>>>>>> gaze
     </a-scene>
 </body>
 

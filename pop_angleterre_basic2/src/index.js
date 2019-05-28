@@ -50,13 +50,13 @@ AFRAME.registerComponent('pop-angleterre', {
             // Lier les objets a-frame et les données :
             var u = d3.select('a-scene') // sélection de la scène a-frame
                 .select('a-entity.set1') // séléction de la a-entity correspondante au bon set
-                .selectAll('a-box.bar') // sélection des cubes
+                .selectAll('a-box.bar1') // sélection des cubes
                 .data(data[0]) // qu'on lie aux données
 
             // Mise à jour des objets
             u.enter() // pour toutes les nouvelles données
                 .append('a-box') // créer un cube s'il n'y en a pas assez
-                .classed('bar', true) // lui donner la classe css "bar"
+                .classed('bar1', true) // lui donner la classe css "bar"
                 // on fait correspondre les champs des données à des paramètres visibles
                 .attr("height", function (d) { // hauteur du cube -> population
                     return population_scale(d.population);
@@ -114,13 +114,13 @@ AFRAME.registerComponent('pop-angleterre', {
 
             var v = d3.select('a-scene') // sélection de la scène a-frame
                 .select('a-entity.set2')
-                .selectAll('a-box.bar') // sélection des cubes
+                .selectAll('a-box.bar2') // sélection des cubes
                 .data(data[1]) // qu'on lie aux données
 
             // Mise à jour des objets
             v.enter() // pour toutes les nouvelles données
                 .append('a-box') // créer un cube s'il n'y en a pas assez
-                .classed('bar', true) // lui donner la classe css "bar"
+                .classed('bar2', true) // lui donner la classe css "bar"
                 // on fait correspondre les champs des données à des paramètres visibles
                 .attr("height", function (d) { // hauteur du cube -> GCP en 2005
                     return wealth_scale(d.GCP_MER05);
